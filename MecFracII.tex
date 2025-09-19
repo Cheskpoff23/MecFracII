@@ -1,0 +1,189 @@
+% MecFracII.tex - Documento sobre Conceptos de Mecánica de la Fractura II
+% Formato APA 7ma Edición
+
+\documentclass[12pt,letterpaper]{article}
+
+% Paquetes necesarios para formato APA
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\usepackage{times}
+\usepackage[style=apa,backend=biber]{biblatex}
+\usepackage{csquotes}
+\usepackage{fancyhdr}
+\usepackage{titletoc}
+\usepackage{tocloft}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+
+% Configuración de la bibliografía
+\addbibresource{MecFracII.bib}
+
+% Configuración de página
+\doublespacing
+\setlength{\parindent}{0.5in}
+
+% Configuración de encabezados
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+\fancyhead[L]{MECÁNICA DE LA FRACTURA II}
+\renewcommand{\headrulewidth}{0pt}
+
+% Configuración del título en tabla de contenido
+\renewcommand{\contentsname}{Tabla de Contenido}
+\renewcommand{\refname}{Referencias}
+
+\begin{document}
+
+% PORTADA
+\begin{titlepage}
+\centering
+\vspace*{2cm}
+
+{\Large\textbf{MECÁNICA DE LA FRACTURA II}}\\[0.5cm]
+{\large Conceptos Fundamentales y Aplicaciones}\\[2cm]
+
+{\large Presentado por:}\\[0.5cm]
+{\large [Nombre del Autor]}\\[1cm]
+
+{\large Presentado a:}\\[0.5cm]
+{\large [Nombre del Profesor]}\\[2cm]
+
+{\large [Nombre de la Institución]}\\
+{\large [Facultad/Departamento]}\\
+{\large [Programa Académico]}\\[2cm]
+
+{\large [Ciudad]}\\
+{\large \today}
+
+\end{titlepage}
+
+% TABLA DE CONTENIDO
+\newpage
+\tableofcontents
+\newpage
+
+% INTRODUCCIÓN
+\section{Introducción}
+
+La mecánica de la fractura es una rama fundamental de la mecánica de sólidos que estudia la propagación de grietas en materiales bajo diferentes condiciones de carga. Este documento presenta los conceptos avanzados de la mecánica de la fractura, conocidos como Mecánica de la Fractura II, que constituyen una extensión de los principios básicos hacia aplicaciones más complejas y especializadas.
+
+El estudio de la mecánica de la fractura ha evolucionado significativamente desde los trabajos pioneros de Griffith (1921) y ha encontrado aplicaciones cruciales en la ingeniería estructural, aeroespacial, civil y de materiales. La comprensión de los mecanismos de fractura es esencial para el diseño seguro y eficiente de componentes estructurales, especialmente cuando estos operan bajo condiciones de carga extremas o en ambientes agresivos.
+
+Los conceptos avanzados que se abordan en este documento incluyen la mecánica de la fractura elastoplástica, los criterios de fractura multiaxial, la fatiga y crecimiento de grietas, así como las técnicas experimentales y numéricas modernas para el análisis de la integridad estructural.
+
+% DESARROLLO/CUERPO DEL DOCUMENTO
+\section{Fundamentos Teóricos de la Mecánica de la Fractura}
+
+\subsection{Criterios de Fractura Avanzados}
+
+La mecánica de la fractura lineal elástica (MFLE) proporciona las bases teóricas para el análisis de grietas en materiales que exhiben comportamiento elástico lineal hasta la falla. Sin embargo, muchos materiales de ingeniería presentan deformación plástica significativa antes de la fractura, lo que requiere el uso de criterios más avanzados.
+
+El factor de intensidad de esfuerzos $K$ sigue siendo fundamental en el análisis, pero su aplicación se extiende a condiciones más complejas. Para el Modo I de fractura (apertura), el factor de intensidad de esfuerzos se define como:
+
+\begin{equation}
+K_I = \sigma\sqrt{\pi a} \cdot f(a/W)
+\end{equation}
+
+donde $\sigma$ es el esfuerzo aplicado, $a$ es la longitud de la grieta, $W$ es el ancho del espécimen, y $f(a/W)$ es un factor geométrico que depende de la configuración específica.
+
+\subsection{Mecánica de la Fractura Elastoplástica}
+
+Cuando la zona plástica en la punta de la grieta no es despreciable comparada con las dimensiones de la grieta, los conceptos de la MFLE pierden validez. En estos casos, se emplean parámetros como la integral J de Rice, que se define como:
+
+\begin{equation}
+J = \int_{\Gamma} \left( W dy - T_i \frac{\partial u_i}{\partial x} ds \right)
+\end{equation}
+
+donde $W$ es la densidad de energía de deformación, $T_i$ son las componentes del vector tracción, $u_i$ son las componentes de desplazamiento, y $\Gamma$ es un contorno que rodea la punta de la grieta.
+
+\subsection{Fatiga y Crecimiento de Grietas}
+
+El crecimiento de grietas por fatiga es un fenómeno crítico en componentes sometidos a cargas cíclicas. La ley de Paris describe la velocidad de crecimiento de grietas en función del rango del factor de intensidad de esfuerzos:
+
+\begin{equation}
+\frac{da}{dN} = C(\Delta K)^m
+\end{equation}
+
+donde $da/dN$ es la velocidad de crecimiento de la grieta por ciclo, $\Delta K$ es el rango del factor de intensidad de esfuerzos, y $C$ y $m$ son constantes del material determinadas experimentalmente.
+
+\section{Técnicas Experimentales y Numéricas}
+
+\subsection{Métodos Experimentales}
+
+Las técnicas experimentales modernas para el estudio de la mecánica de la fractura incluyen:
+
+\begin{itemize}
+\item Correlación digital de imágenes (DIC) para medición de campos de desplazamiento
+\item Ensayos de mecánica de la fractura según normas ASTM (E399, E1820, E647)
+\item Técnicas de emisión acústica para monitoreo de la propagación de grietas
+\item Microscopía electrónica para análisis fractográfico
+\end{itemize}
+
+\subsection{Métodos Numéricos}
+
+El análisis computacional ha revolucionado el estudio de la mecánica de la fractura. Los métodos principales incluyen:
+
+\begin{itemize}
+\item Método de los elementos finitos (MEF) con elementos especiales en la punta de la grieta
+\item Método de los elementos finitos extendido (XFEM) para modelado de grietas móviles
+\item Métodos de contorno para cálculo de factores de intensidad de esfuerzos
+\item Simulaciones de dinámica molecular para estudios a escala atómica
+\end{itemize}
+
+\section{Aplicaciones en Ingeniería}
+
+\subsection{Industria Aeroespacial}
+
+En la industria aeroespacial, la mecánica de la fractura es fundamental para:
+\begin{itemize}
+\item Diseño tolerante al daño de fuselajes y alas
+\item Análisis de vida útil de componentes críticos
+\item Desarrollo de programas de inspección y mantenimiento
+\item Certificación de materiales compuestos
+\end{itemize}
+
+\subsection{Ingeniería Civil}
+
+Las aplicaciones en ingeniería civil incluyen:
+\begin{itemize}
+\item Análisis de fisuración en estructuras de concreto
+\item Evaluación de la integridad de puentes y edificios
+\item Diseño de estructuras en zonas sísmicas
+\item Estudios de durabilidad de materiales de construcción
+\end{itemize}
+
+\subsection{Industria Petroquímica}
+
+En la industria petroquímica, los conceptos de mecánica de la fractura se aplican en:
+\begin{itemize}
+\item Análisis de recipientes a presión y tuberías
+\item Evaluación de la integridad estructural en ambientes corrosivos
+\item Desarrollo de programas de inspección basados en riesgo
+\item Análisis de falla de equipos críticos
+\end{itemize}
+
+% CONCLUSIÓN
+\section{Conclusión}
+
+La mecánica de la fractura II representa una disciplina madura y en constante evolución que ha encontrado aplicaciones fundamentales en múltiples campos de la ingeniería. Los conceptos avanzados presentados en este documento, incluyendo la mecánica de la fractura elastoplástica, los criterios multiaxiales, y las técnicas experimentales y numéricas modernas, proporcionan las herramientas necesarias para abordar problemas complejos de integridad estructural.
+
+La integración de métodos experimentales avanzados con simulaciones computacionales sofisticadas ha permitido un mejor entendimiento de los mecanismos de fractura y ha facilitado el desarrollo de metodologías más precisas para la predicción de la vida útil de componentes estructurales. La correlación digital de imágenes, los métodos de elementos finitos extendidos, y las técnicas de análisis fractográfico han revolucionado la forma en que abordamos los problemas de mecánica de la fractura.
+
+Las aplicaciones en las industrias aeroespacial, civil y petroquímica demuestran la relevancia práctica de estos conceptos avanzados. El diseño tolerante al daño, los análisis de vida residual, y los programas de inspección basados en riesgo son ejemplos concretos de cómo la mecánica de la fractura II contribuye a la seguridad y eficiencia de las estructuras de ingeniería.
+
+Para el futuro, se espera que los avances en materiales inteligentes, técnicas de caracterización in-situ, y métodos computacionales de alta fidelidad continúen expandiendo las fronteras de esta disciplina. La mecánica de la fractura II seguirá siendo fundamental para el desarrollo de materiales y estructuras más seguras, duraderas y eficientes.
+
+Es importante destacar que la aplicación exitosa de estos conceptos requiere una comprensión profunda tanto de los fundamentos teóricos como de las limitaciones prácticas de cada método. La formación continua y la actualización en las últimas técnicas y desarrollos son esenciales para los profesionales que trabajan en este campo.
+
+% BIBLIOGRAFÍA
+\newpage
+\printbibliography
+
+\end{document}
