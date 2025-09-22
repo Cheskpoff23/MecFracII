@@ -1,17 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'MecFracII.blg'
-[123] biber-MSWIN64:340> INFO - === 
-[164] Biber.pm:419> INFO - Reading 'MecFracII.bcf'
-[328] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[357] Biber.pm:4419> INFO - Processing section 0
-[372] Biber.pm:4610> INFO - Looking for bibtex file 'MecFracII.bib' for section 0
-[431] bibtex.pm:1713> INFO - LaTeX decoding ...
-[469] bibtex.pm:1519> INFO - Found BibTeX data source 'MecFracII.bib'
-[662] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[662] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[662] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[720] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[720] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[720] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[749] bbl.pm:660> INFO - Writing 'MecFracII.bbl' with encoding 'UTF-8'
-[777] bbl.pm:763> INFO - Output to MecFracII.bbl
+[93] biber:340> INFO - === Mon Sep 22, 2025, 07:24:03
+[140] Biber.pm:419> INFO - Reading 'MecFracII.bcf'
+[205] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[253] Biber.pm:4419> INFO - Processing section 0
+[279] Biber.pm:4610> INFO - Looking for bibtex file 'MecFracII.bib' for section 0
+[280] bibtex.pm:1713> INFO - LaTeX decoding ...
+[286] bibtex.pm:1519> INFO - Found BibTeX data source 'MecFracII.bib'
+[431] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[431] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[431] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[451] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[451] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[451] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[458] bbl.pm:660> INFO - Writing 'MecFracII.bbl' with encoding 'UTF-8'
+[465] bbl.pm:763> INFO - Output to MecFracII.bbl

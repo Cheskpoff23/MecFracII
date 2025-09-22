@@ -81,7 +81,7 @@ Los conceptos avanzados que se abordan en este documento incluyen la mecánica d
 
 \section{Inestabilidad de la grieta y la curva R}
 
-La inestabilidad de una grieta se produce cuando el avance de la fisura se vuelve incontrolable bajo una carga dada, asociado a la resistencia intrínseca del material a la propagación de la grieta. La \textit{curva R} representa la tenacidad creciente del material con el avance estable de la grieta, mostrando un equilibrio entre la energía liberada y la energía necesaria para iniciar/propagar el defecto \cite{Broek1982, Cameron2022, Jaramillo2008, AllisonBeese2022, Ponson2022}.
+La inestabilidad de una grieta se produce cuando el avance de la fisura se vuelve incontrolable bajo una carga dada, asociado a la resistencia intrínseca del material a la propagación de la grieta. La \textit{curva R} representa la tenacidad creciente del material con el avance estable de la grieta, mostrando un equilibrio entre la energía liberada y la energía necesaria para iniciar/propagar el defecto \cite{Broek1982, CoatesSooklal2022, JaramilloIntroduccion, AllisonBeese2022, Ponson2022}.
 
 En otras palabras, la inestabilidad de la grieta ocurre cuando la energía elástica disponible se iguala a la energía requerida para la aparición de una grieta (Energía de superficie).
 Y la curva R no es más que la representación gráfica de la resistencia del material a la propagación de una grieta en función del avance de la misma.
@@ -96,7 +96,7 @@ Y la curva R no es más que la representación gráfica de la resistencia del ma
 \section{Tensión Plana}
 
 La condición de tensión plana se aplica a elementos delgados en los que las cargas actúan en el plano y las deformaciones fuera del plano son despreciables.
-En esta condición, las tensiones fuera del plano ($\sigma_z$) son cercanas a cero, y la deformación en esa dirección ($\varepsilon_z$) puede ser significativa debido a la relación de Poisson que dice que la cara que este ortogonal a la dirección de la carga se contrae. \cite{Cameron2022, Ponson2022, Broek1982, Jaramillo2008}.
+En esta condición, las tensiones fuera del plano ($\sigma_z$) son cercanas a cero, y la deformación en esa dirección ($\varepsilon_z$) puede ser significativa debido a la relación de Poisson que dice que la cara que este ortogonal a la dirección de la carga se contrae. \cite{CoatesSooklal2022, Ponson2022, Broek1982, JaramilloIntroduccion}.
 \vspace{1em}
 
 \begin{figure}[H]   
@@ -109,7 +109,7 @@ En esta condición, las tensiones fuera del plano ($\sigma_z$) son cercanas a ce
 
 \section{Deformación Plana}
 
-En cuerpos con gran espesor respecto a otras dimensiones, se desarrolla una condición de deformación plana: las deformaciones fuera del plano se anulan ($\varepsilon_z \approx 0$), y el efecto triaxial en la punta de la grieta limita la plasticidad, siendo fundamental para la validez del parámetro $K_I$ \cite{Cameron2022, Ponson2022, Broek1982, Jaramillo2008}.
+En cuerpos con gran espesor respecto a otras dimensiones, se desarrolla una condición de deformación plana: las deformaciones fuera del plano se anulan ($\varepsilon_z \approx 0$), y el efecto triaxial en la punta de la grieta limita la plasticidad, siendo fundamental para la validez del parámetro $K_I$ \cite{CoatesSooklal2022, Ponson2022, Broek1982, JaramilloIntroduccion}.
 Los cuerpos sometidos a deformación plana serán el objeto de estudio en la MFEL principalmente.
 
 Con la aplicación de la carga, la grieta queda restringida sin poder deformarse en una de las direcciones, dando como resultado un estado de esfuerzos triaxial en la punta de la grieta, lo que limita la plasticidad y permite el uso del factor de intensidad de esfuerzos $K_I$ para caracterizar el campo de tensiones cerca de la punta de la grieta, ya que para restringir esa deformación amerita que se induzca una tensión en la dirección z, que es la que se encuentra restringida.
@@ -124,7 +124,7 @@ Con la aplicación de la carga, la grieta queda restringida sin poder deformarse
 
 \section{Factor de Intensidad en una Placa Finita}
 
-El factor de intensidad de esfuerzos $K$ caracteriza el campo de tensiones cerca de la punta de la grieta. Es función de la geometría, tamaño de la grieta y la carga aplicada. Para una placa finita, $K = Y\sigma\sqrt{\pi a}$, donde $Y$ es el factor geométrico, $\sigma$ la tensión aplicada y $a$ la longitud de la grieta. Las tablas y gráficos de $Y$ para diversas configuraciones están recopiladas en los manuales de Tada, París y Anderson \cite{Broek1982, Cameron2022, Jaramillo2008, MechanicalBehavior2022}.
+El factor de intensidad de esfuerzos $K$ caracteriza el campo de tensiones cerca de la punta de la grieta. Es función de la geometría, tamaño de la grieta y la carga aplicada. Para una placa finita, $K = Y\sigma\sqrt{\pi a}$, donde $Y$ es el factor geométrico, $\sigma$ la tensión aplicada y $a$ la longitud de la grieta. Las tablas y gráficos de $Y$ para diversas configuraciones están recopiladas en los manuales de Tada, París y Anderson \cite{Broek1982, CoatesSooklal2022, JaramilloIntroduccion, MechanicalBehavior}.
 \section{Plasticidad en el Frente de Grieta}
 
 La concentración de esfuerzos hace que la zona cercana a la punta de la grieta entre en plasticidad (zona plástica). Su tamaño se estima mediante las soluciones de Irwin y Dugdale. En deformación plana, la plasticidad es más restringida que en tensión plana. La estimación para el tamaño de zona plástica es:
@@ -198,7 +198,7 @@ r_p = \frac{1}{2\pi} \left( \frac{K_I}{\sigma_{ys}} \right)^2 \quad \text{(esfue
 r_p = \frac{1}{6\pi} \left( \frac{K_I}{\sigma_{ys}} \right)^2 \quad \text{(deformación plana)}
 \label{eq:zona_plastica_deformacion_plana_clasica}
 \end{equation}
-donde $K_I$ es el factor de intensidad y $\sigma_Y$ el límite elástico del material. \cite{Broek1982, Jaramillo2008, Cameron2022, MechanicalBehavior2022, Ponson2022}.
+donde $K_I$ es el factor de intensidad y $\sigma_Y$ el límite elástico del material. \cite{Broek1982, JaramilloIntroduccion, CoatesSooklal2022, MechanicalBehavior, Ponson2022}.
 
 Así entonces, la zona plástica de la grieta actúa como un “amortiguador” que reduce la concentración extrema de esfuerzos y no la singularidad con respecto al esfuerzo que se estima, i.e.
 cuanto mayor sea la zona plástica, menos dominante será el término $\left(\frac{K}{\sqrt{2\pi r}}\right)$ y la MFEL deja de ser válida.
@@ -225,7 +225,7 @@ a, (b-a), h \geq \frac{4}{\pi} \left( \frac{K}{\sigma_YS} \right)^2 \quad \text{
     \end{figure}
 
 \section{Criterios para Determinar la Forma de la Zona Plástica}
-Existen varios modelos para estimar la forma de la zona plástica en la punta de una grieta. Por criterios entendemos, las diferentes formas en las que podemos calcular y graficar la zona plástica. Por otro lado, podemos pensar en los distintos modelos y correcciones como los propuestos por Irwin, Dugdale y el enfoque basado en el J-integral. Cada uno ofrece una perspectiva diferente sobre cómo se distribuye la plasticidad alrededor de la punta de la grieta. \cite{Broek1982, Cameron2022, Jaramillo2008, MechanicalBehavior2022, Ponson2022}.
+Existen varios modelos para estimar la forma de la zona plástica en la punta de una grieta. Por criterios entendemos, las diferentes formas en las que podemos calcular y graficar la zona plástica. Por otro lado, podemos pensar en los distintos modelos y correcciones como los propuestos por Irwin, Dugdale y el enfoque basado en el J-integral. Cada uno ofrece una perspectiva diferente sobre cómo se distribuye la plasticidad alrededor de la punta de la grieta. \cite{Broek1982, CoatesSooklal2022, JaramilloIntroduccion, MechanicalBehavior, Ponson2022}.
 Si pensamos en los criterios para graficar la zona plástica, podemos considerar:
 \begin{itemize}
     \item \textbf{Criterio de~Von Mises:} Utiliza la tensión equivalente para definir la zona plástica, considerando la combinación de tensiones principales. De este derivamos las ecuaciones~\ref{eq:zona_plastica_esfuerzo_plano} y~\ref{eq:zona_plastica_deformacion_plana}.
