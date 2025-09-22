@@ -1,0 +1,10 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{2}{}%
+\contentsline {section}{\numberline {2}Inestabilidad de la grieta y la curva R}{2}{}%
+\contentsline {section}{\numberline {3}Tensión Plana}{3}{}%
+\contentsline {section}{\numberline {4}Deformación Plana}{4}{}%
+\contentsline {section}{\numberline {5}Factor de Intensidad en una Placa Finita}{5}{}%
+\contentsline {section}{\numberline {6}Plasticidad en el Frente de Grieta}{5}{}%
+\contentsline {section}{\numberline {7}Criterios para Determinar la Forma de la Zona Plástica}{9}{}%
+\contentsline {section}{\numberline {8}Tablas de Factores de Intensidad}{11}{}%
+\contentsfinish 

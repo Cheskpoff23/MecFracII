@@ -1,6 +1,6 @@
-PWD c:\Users\GAVP\Desktop\MecFracII
+PWD d:\Copia Seguridad U\Semestre10\MecAFRACViolet\MecFracII
 INPUT C:\Users\GAVP\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\GAVP\Desktop\MecFracII\MecFracII.tex
+INPUT d:\Copia Seguridad U\Semestre10\MecAFRACViolet\MecFracII\MecFracII.tex
 OUTPUT MecFracII.log
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -143,6 +143,9 @@ INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT .\MecFracII.aux
+INPUT .\MecFracII.aux
+INPUT MecFracII.aux
 OUTPUT MecFracII.aux
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
@@ -177,19 +180,10 @@ INPUT C:\Users\GAVP\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-OUTPUT MecFracII.toc
-INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
-INPUT .\aa.jpeg
-INPUT .\aa.jpeg
-INPUT .\aa.jpeg
-INPUT .\aa.jpeg
-INPUT .\aa.jpeg
-INPUT .\aa.jpeg
-INPUT .\aa.jpeg
-INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
-INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT .\MecFracII.toc
+INPUT .\MecFracII.toc
+INPUT MecFracII.toc
+INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -213,6 +207,21 @@ INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+OUTPUT MecFracII.toc
+INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT .\aa.jpeg
+INPUT .\aa.jpeg
+INPUT .\aa.jpeg
+INPUT .\aa.jpeg
+INPUT .\aa.jpeg
+INPUT .\aa.jpeg
+INPUT .\aa.jpeg
+INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT .\BB.png
 INPUT .\BB.png
 INPUT .\BB.png
@@ -241,11 +250,8 @@ INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symb
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
-INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
-INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT .\ee.png
 INPUT .\ee.png
 INPUT .\ee.png
@@ -284,6 +290,7 @@ INPUT .\d.png
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT MecFracII.aux
+INPUT MecFracII.run.xml
 OUTPUT MecFracII.run.xml
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\GAVP\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
