@@ -257,16 +257,24 @@ Si pensamos en los criterios para graficar la zona plástica, podemos considerar
 \end{figure}
 Ahora bien, si hablamos de los modelos para estimar la zona plástica, tenemos:
     \item \textbf{Modelo de Irwin:} Considera la zona plástica como una región semicircular delante de la punta de la grieta, con un radio proporcional a $\left(\frac{K}{\sigma_{ys}}\right)^2$.
-    \item \textbf{Modelo de Dugdale:} Asume una distribución uniforme de tensión igual al límite elástico en una pequeña región delante de la punta de la grieta, formando una zona plástica rectangular.
     \item \textbf{Modelo de Dugdale:} Dugdale propone que la zona plástica delante de la grieta puede modelarse como una banda donde la tensión es constante e igual al límite elástico $\sigma_{ys}$. El tamaño de esta zona se determina igualando la apertura plástica al desplazamiento elástico en la punta de la grieta, obteniendo:
 
     \[
     \rho = \frac{\pi^2 \sigma^2 a}{8 \sigma_{ys}^2} = \frac{\pi}{8} \left( \frac{K_I}{\sigma_{ys}} \right)^2
     \]
 
+    \begin{figure}[H]
+        \centering
+            \includegraphics[width=0.8\linewidth]{ppp.png}
+            \caption{Comparación de las correcciones de la zona plástica según Irwin y Dugdale.}
+            \label{fig:ppp}
+            \caption*{Nota. Imágenes tomadas de: Arana, J. L., \& González, J. J. (2011). \textit{Mecánica de Fractura}.}
+    \end{figure}
+
     Esta ecuación es muy similar a la obtenida anteriormente Ecuación \eqref{eq:zona_plastica_esfuerzo_plano_clasica} por Irwin usando el criterio de von Mises para esfuerzo plano.
 
     Por ejemplo, Broek discute detalladamente los modelos de Irwin y Dugdale, mostrando cómo ambos permiten estimar el tamaño y la forma de la zona plástica en la punta de la grieta, y resalta las diferencias en los factores numéricos y supuestos físicos involucrados \cite{Broek1982}.
+
     \item \textbf{Enfoque del J-integral:} Utiliza el concepto de energía para definir la zona plástica, considerando la integral J alrededor de la punta de la grieta.
 
 \end{itemize}
@@ -277,7 +285,7 @@ A continuación se presentan algunas tablas y esquemas del factor geométrico $Y
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.65\linewidth]{cc.png} % <-- sustituye por la ruta y nombre del archivo
+    \includegraphics[width=0.95\linewidth]{cc.png} % <-- sustituye por la ruta y nombre del archivo
     \caption{Tablas y esquemas del factor geométrico $Y$ para distintas geometrías.}
     \label{fig:factor_intensidad_Y}
     \caption*{Nota. Imágenes tomadas de: Coates, C., \& Sooklal, V. (2022). Modern Applied Fracture Mechanics. CRC Press.}

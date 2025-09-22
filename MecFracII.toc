@@ -6,5 +6,5 @@
 \contentsline {section}{\numberline {5}Factor de Intensidad en una Placa Finita}{5}{}%
 \contentsline {section}{\numberline {6}Plasticidad en el Frente de Grieta}{5}{}%
 \contentsline {section}{\numberline {7}Criterios para Determinar la Forma de la Zona Plástica}{9}{}%
-\contentsline {section}{\numberline {8}Tablas de Factores de Intensidad}{11}{}%
+\contentsline {section}{\numberline {8}Tablas de Factores de Intensidad}{12}{}%
 \contentsfinish 
