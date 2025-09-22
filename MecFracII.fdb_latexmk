@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber MecFracII"] 1758523834.30373 "MecFracII.bcf" "MecFracII.bbl" "MecFracII" 1758523843.81157 0
-  "MecFracII.bcf" 1758523843 135060 20067e70a357fe5a2eb6d18fdd351d63 "pdflatex"
+["biber MecFracII"] 1758526088.835 "MecFracII.bcf" "MecFracII.bbl" "MecFracII" 1758526098.78052 0
+  "MecFracII.bcf" 1758526098 134993 967dcce25c0d81d321ca3f62231eb4d0 "pdflatex"
   "MecFracII.bib" 1758523250 6776 298f77dd2e27c27ddd7364c44b20d949 ""
   (generated)
   "MecFracII.bbl"
   "MecFracII.blg"
   (rewritten before read)
-["pdflatex"] 1758523841.50566 "d:/Copia Seguridad U/Semestre10/MecAFRACViolet/MecFracII/MecFracII.tex" "MecFracII.pdf" "MecFracII" 1758523843.81238 0
+["pdflatex"] 1758526096.60156 "d:/Copia Seguridad U/Semestre10/MecAFRACViolet/MecFracII/MecFracII.tex" "MecFracII.pdf" "MecFracII" 1758526098.78145 0
   "BB.png" 1758431467 7071 8a8f69b8a627fd07d88ff098c500e9e4 ""
   "C:/Users/GAVP/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1758271661 122695 284aa43fd9596bfdbe93b5e0c6c5df4b ""
   "C:/Users/GAVP/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1743921248 24224573 8cf8da341dfaf24d473899c342f0bd3f ""
@@ -116,15 +116,15 @@
   "C:/Users/GAVP/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titletoc.sty" 1736608268 16594 e070b7268023b1ec1b45c44617ea64f9 ""
   "C:/Users/GAVP/AppData/Local/Programs/MiKTeX/tex/latex/tocloft/tocloft.sty" 1578908763 37263 3e78d14f0f4b1a30560fea5e04de805d ""
   "C:/Users/GAVP/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "MecFracII.aux" 1758523843 8994 e1f9c95d1763517ee872ef7568aa2495 "pdflatex"
-  "MecFracII.bbl" 1758523837 76881 63e861da2cea6790e0c0943887294a59 "biber MecFracII"
-  "MecFracII.run.xml" 1758523843 2393 2e9ee26d0b25dbf17efd0a97bbef377b "pdflatex"
-  "MecFracII.tex" 1758523837 16956 9fcc12d9b4cfd1fabf7fc1420859401d ""
-  "MecFracII.toc" 1758523843 669 67950c13b75de4733f2bb335b666f8d7 "pdflatex"
+  "MecFracII.aux" 1758526098 7095 fddfea196203cfc93b1eb89e4107ca76 "pdflatex"
+  "MecFracII.bbl" 1758526091 20783 c8873f11203111f6aaf2348433e4029c "biber MecFracII"
+  "MecFracII.run.xml" 1758526098 2393 2e9ee26d0b25dbf17efd0a97bbef377b "pdflatex"
+  "MecFracII.tex" 1758526084 16945 e6ee4ec0e68f823c0d611cbbfb61e4c7 ""
+  "MecFracII.toc" 1758526098 669 67950c13b75de4733f2bb335b666f8d7 "pdflatex"
   "aa.jpeg" 1758430601 79588 99b28e3b23402069e7d80eb892794ed3 ""
   "cc.png" 1758488654 115896 71368154fd4bfb53b34ea83cf0786d52 ""
   "d.png" 1758488830 93348 28cd76b56d8fae5af073e94415cd3329 ""
-  "d:/Copia Seguridad U/Semestre10/MecAFRACViolet/MecFracII/MecFracII.tex" 1758523837 16956 9fcc12d9b4cfd1fabf7fc1420859401d ""
+  "d:/Copia Seguridad U/Semestre10/MecAFRACViolet/MecFracII/MecFracII.tex" 1758526084 16945 e6ee4ec0e68f823c0d611cbbfb61e4c7 ""
   "ee.png" 1758503132 40173 1083ccccd21cee347fbef6d23ea260ee ""
   "ff.png" 1758509912 26610 cc31eb0797a6e7477d2ee27c72dc1c4c ""
   "gg.png" 1758521045 62236 33248b2f7aa6173b67c4b68f22a03a80 ""

@@ -3088,7 +3088,6 @@
     <bcf:citekey order="6" intorder="5">Ponson2022</bcf:citekey>
     <bcf:citekey order="7" intorder="1">Broek1982</bcf:citekey>
     <bcf:citekey order="8" intorder="1">anderson2017fracture</bcf:citekey>
-    <bcf:citekey order="9" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
