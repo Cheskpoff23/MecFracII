@@ -1,15 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.6)  22 SEP 2025 02:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.9.22)  22 SEP 2025 07:19
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Copia Seguridad U/Semestre10/MecAFRACViolet/MecFracII/MecFracII.tex"
-(d:/Copia Seguridad U/Semestre10/MecAFRACViolet/MecFracII/MecFracII.tex
+**MecFracII.tex
+(./MecFracII.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
-(C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count187
@@ -23,48 +22,62 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2024/01/07 v24.1 The Babel package
 \babel@savecnt=\count195
 \U@D=\dimen141
-\l@unhyphenated=\language79
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\l@unhyphenated=\language5
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count196
 
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
-Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-\es@quottoks=\toks19
-\es@quotdepth=\count197
-Package babel Info: Making " an active character on input line 570.
-Package babel Info: Making . an active character on input line 675.
-Package babel Info: Making < an active character on input line 722.
-Package babel Info: Making > an active character on input line 722.
-)) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
-Package babel Info: Importing font and identification data for spanish
-(babel)             from babel-es.ini. Reported on input line 11.
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+
+! Package babel Error: Unknown option 'spanish'. Either you misspelled it
+(babel)                or the language definition file spanish.ldf
+(babel)                was not found.
+(babel)                There is a locale ini file for this language.
+(babel)                If it’s the main language, try adding `provide=*'
+(babel)                to the babel package options.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4291 \ProcessOptions*
+                       
+Valid options are, among others: shorthands=, KeepShorthandsActive,
+activeacute, activegrave, noconfigs, safe=, main=, math=
+headfoot=, strings=, config=, hyphenmap=, or a language name.
+
+Package babel Info: You haven't specified a language as a class or package
+(babel)             option. I'll load 'nil'. Reported on input line 4342.
+(/usr/share/texlive/texmf-dist/tex/generic/babel/nil.ldf
+Language: nil 2024/01/07 v24.1 Nil language
+\l@nil=\language6
+))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks20
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count198
-\Gm@cntv=\count199
-\c@Gm@tempcnt=\count266
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
 \Gm@bindingoffset=\dimen142
 \Gm@wd@mp=\dimen143
 \Gm@odd@mp=\dimen144
@@ -73,84 +86,98 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen147
 \Gm@layouthoffset=\dimen148
 \Gm@layoutvoffset=\dimen149
-\Gm@dimlist=\toks21
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+\Gm@dimlist=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count267
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+\etb@tempcnta=\count266
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count268
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+\lrq@indent=\count267
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count269
-\c@listtotal=\count270
-\c@listcount=\count271
-\c@liststart=\count272
-\c@liststop=\count273
-\c@citecount=\count274
-\c@citetotal=\count275
-\c@multicitecount=\count276
-\c@multicitetotal=\count277
-\c@instcount=\count278
-\c@maxnames=\count279
-\c@minnames=\count280
-\c@maxitems=\count281
-\c@minitems=\count282
-\c@citecounter=\count283
-\c@maxcitecounter=\count284
-\c@savedcitecounter=\count285
-\c@uniquelist=\count286
-\c@uniquename=\count287
-\c@refsection=\count288
-\c@refsegment=\count289
-\c@maxextratitle=\count290
-\c@maxextratitleyear=\count291
-\c@maxextraname=\count292
-\c@maxextradate=\count293
-\c@maxextraalpha=\count294
-\c@abbrvpenalty=\count295
-\c@highnamepenalty=\count296
-\c@lownamepenalty=\count297
-\c@maxparens=\count298
-\c@parenlevel=\count299
-\blx@tempcnta=\count300
-\blx@tempcntb=\count301
-\blx@tempcntc=\count302
-\c@blx@maxsection=\count303
-\blx@maxsegment@0=\count304
-\blx@notetype=\count305
-\blx@parenlevel@text=\count306
-\blx@parenlevel@foot=\count307
-\blx@sectionciteorder@0=\count308
-\blx@sectionciteorderinternal@0=\count309
-\blx@entrysetcounter=\count310
-\blx@biblioinstance=\count311
+\c@tabx@nest=\count268
+\c@listtotal=\count269
+\c@listcount=\count270
+\c@liststart=\count271
+\c@liststop=\count272
+\c@citecount=\count273
+\c@citetotal=\count274
+\c@multicitecount=\count275
+\c@multicitetotal=\count276
+\c@instcount=\count277
+\c@maxnames=\count278
+\c@minnames=\count279
+\c@maxitems=\count280
+\c@minitems=\count281
+\c@citecounter=\count282
+\c@maxcitecounter=\count283
+\c@savedcitecounter=\count284
+\c@uniquelist=\count285
+\c@uniquename=\count286
+\c@refsection=\count287
+\c@refsegment=\count288
+\c@maxextratitle=\count289
+\c@maxextratitleyear=\count290
+\c@maxextraname=\count291
+\c@maxextradate=\count292
+\c@maxextraalpha=\count293
+\c@abbrvpenalty=\count294
+\c@highnamepenalty=\count295
+\c@lownamepenalty=\count296
+\c@maxparens=\count297
+\c@parenlevel=\count298
+\blx@tempcnta=\count299
+\blx@tempcntb=\count300
+\blx@tempcntc=\count301
+\c@blx@maxsection=\count302
+\blx@maxsegment@0=\count303
+\blx@notetype=\count304
+\blx@parenlevel@text=\count305
+\blx@parenlevel@foot=\count306
+\blx@sectionciteorder@0=\count307
+\blx@sectionciteorderinternal@0=\count308
+\blx@entrysetcounter=\count309
+\blx@biblioinstance=\count310
 \labelnumberwidth=\skip50
 \labelalphawidth=\skip51
 \biblabelsep=\skip52
@@ -161,100 +188,102 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip57
 \blx@bcfin=\read3
 \blx@bcfout=\write3
-\blx@langwohyphens=\language80
-\c@mincomprange=\count312
-\c@maxcomprange=\count313
-\c@mincompwidth=\count314
+\blx@langwohyphens=\language7
+\c@mincomprange=\count311
+\c@maxcomprange=\count312
+\c@mincompwidth=\count313
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.dbx
-File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+File: apa.dbx 2023/03/20 v9.17 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count315
-\c@savedafterword=\count316
-\c@annotator=\count317
-\c@savedannotator=\count318
-\c@author=\count319
-\c@savedauthor=\count320
-\c@bookauthor=\count321
-\c@savedbookauthor=\count322
-\c@commentator=\count323
-\c@savedcommentator=\count324
-\c@editor=\count325
-\c@savededitor=\count326
-\c@editora=\count327
-\c@savededitora=\count328
-\c@editorb=\count329
-\c@savededitorb=\count330
-\c@editorc=\count331
-\c@savededitorc=\count332
-\c@foreword=\count333
-\c@savedforeword=\count334
-\c@holder=\count335
-\c@savedholder=\count336
-\c@introduction=\count337
-\c@savedintroduction=\count338
-\c@namea=\count339
-\c@savednamea=\count340
-\c@nameb=\count341
-\c@savednameb=\count342
-\c@namec=\count343
-\c@savednamec=\count344
-\c@translator=\count345
-\c@savedtranslator=\count346
-\c@shortauthor=\count347
-\c@savedshortauthor=\count348
-\c@shorteditor=\count349
-\c@savedshorteditor=\count350
-\c@narrator=\count351
-\c@savednarrator=\count352
-\c@execproducer=\count353
-\c@savedexecproducer=\count354
-\c@execdirector=\count355
-\c@savedexecdirector=\count356
-\c@with=\count357
-\c@savedwith=\count358
-\c@labelname=\count359
-\c@savedlabelname=\count360
-\c@institution=\count361
-\c@savedinstitution=\count362
-\c@lista=\count363
-\c@savedlista=\count364
-\c@listb=\count365
-\c@savedlistb=\count366
-\c@listc=\count367
-\c@savedlistc=\count368
-\c@listd=\count369
-\c@savedlistd=\count370
-\c@liste=\count371
-\c@savedliste=\count372
-\c@listf=\count373
-\c@savedlistf=\count374
-\c@location=\count375
-\c@savedlocation=\count376
-\c@organization=\count377
-\c@savedorganization=\count378
-\c@origlocation=\count379
-\c@savedoriglocation=\count380
-\c@origpublisher=\count381
-\c@savedorigpublisher=\count382
-\c@publisher=\count383
-\c@savedpublisher=\count384
-\c@language=\count385
-\c@savedlanguage=\count386
-\c@origlanguage=\count387
-\c@savedoriglanguage=\count388
-\c@citation=\count389
-\c@savedcitation=\count390
-\c@pageref=\count391
-\c@savedpageref=\count392
+\c@afterword=\count314
+\c@savedafterword=\count315
+\c@annotator=\count316
+\c@savedannotator=\count317
+\c@author=\count318
+\c@savedauthor=\count319
+\c@bookauthor=\count320
+\c@savedbookauthor=\count321
+\c@commentator=\count322
+\c@savedcommentator=\count323
+\c@editor=\count324
+\c@savededitor=\count325
+\c@editora=\count326
+\c@savededitora=\count327
+\c@editorb=\count328
+\c@savededitorb=\count329
+\c@editorc=\count330
+\c@savededitorc=\count331
+\c@foreword=\count332
+\c@savedforeword=\count333
+\c@holder=\count334
+\c@savedholder=\count335
+\c@introduction=\count336
+\c@savedintroduction=\count337
+\c@namea=\count338
+\c@savednamea=\count339
+\c@nameb=\count340
+\c@savednameb=\count341
+\c@namec=\count342
+\c@savednamec=\count343
+\c@translator=\count344
+\c@savedtranslator=\count345
+\c@shortauthor=\count346
+\c@savedshortauthor=\count347
+\c@shorteditor=\count348
+\c@savedshorteditor=\count349
+\c@narrator=\count350
+\c@savednarrator=\count351
+\c@execproducer=\count352
+\c@savedexecproducer=\count353
+\c@execdirector=\count354
+\c@savedexecdirector=\count355
+\c@with=\count356
+\c@savedwith=\count357
+\c@labelname=\count358
+\c@savedlabelname=\count359
+\c@institution=\count360
+\c@savedinstitution=\count361
+\c@lista=\count362
+\c@savedlista=\count363
+\c@listb=\count364
+\c@savedlistb=\count365
+\c@listc=\count366
+\c@savedlistc=\count367
+\c@listd=\count368
+\c@savedlistd=\count369
+\c@liste=\count370
+\c@savedliste=\count371
+\c@listf=\count372
+\c@savedlistf=\count373
+\c@location=\count374
+\c@savedlocation=\count375
+\c@organization=\count376
+\c@savedorganization=\count377
+\c@origlocation=\count378
+\c@savedoriglocation=\count379
+\c@origpublisher=\count380
+\c@savedorigpublisher=\count381
+\c@publisher=\count382
+\c@savedpublisher=\count383
+\c@language=\count384
+\c@savedlanguage=\count385
+\c@origlanguage=\count386
+\c@savedoriglanguage=\count387
+\c@citation=\count388
+\c@savedcitation=\count389
+\c@pageref=\count390
+\c@savedpageref=\count391
 \shorthandwidth=\skip58
 \shortjournalwidth=\skip59
 \shortserieswidth=\skip60
@@ -271,49 +300,60 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip71
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count393
-\c@textcitetotal=\count394
-\c@textcitemaxnames=\count395
-\c@biburlbigbreakpenalty=\count396
-\c@biburlbreakpenalty=\count397
-\c@biburlnumpenalty=\count398
-\c@biburlucpenalty=\count399
-\c@biburllcpenalty=\count400
+\c@textcitecount=\count392
+\c@textcitetotal=\count393
+\c@textcitemaxnames=\count394
+\c@biburlbigbreakpenalty=\count395
+\c@biburlbreakpenalty=\count396
+\c@biburlnumpenalty=\count397
+\c@biburlucpenalty=\count398
+\c@biburllcpenalty=\count399
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count401
+\c@smartand=\count400
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.bbx
-File: apa.bbx 2025/08/27 v9.20 APA biblatex references style
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+File: apa.bbx 2023/03/20 v9.17 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count402
-\c@bbx:relatedtotal=\count403
+\c@bbx:relatedcount=\count401
+\c@bbx:relatedtotal=\count402
 )
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already defined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
+ed, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already d
+efined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already def
+ined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
+ defined, overwriting.
 )
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.cbx
-File: apa.cbx 2025/08/27 v9.20 APA biblatex citation style
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
-Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.cbx
+File: apa.cbx 2023/03/20 v9.17 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+, overwriting.
 Package biblatex Info: Redefining '\fullcite'.
 Package biblatex Info: Redefining '\citeauthor'.
 Package biblatex Info: Redefining '\citeyear'.
@@ -332,123 +372,133 @@ Package biblatex Info: Redefining '\textcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2024-01-04 L3 programming layer (loader) 
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count404
+\l__color_backend_stack_int=\count403
 \l__pdf_internal_box=\box51
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2024-01-04 L3 programming layer (loader) 
+(biblatex)             2024-01-22 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2023-10-10 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-)) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
-Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
-\csq@reset=\count405
-\csq@gtype=\count406
-\csq@glevel=\count407
-\csq@qlevel=\count408
-\csq@maxlvl=\count409
-\csq@tshold=\count410
-\csq@ltx@everypar=\toks22
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
-File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count404
+\csq@gtype=\count405
+\csq@glevel=\count406
+\csq@qlevel=\count407
+\csq@maxlvl=\count408
+\csq@tshold=\count409
+\csq@ltx@everypar=\toks21
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
-)) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
 \f@nch@headwidth=\skip72
-\f@nch@offset@elh=\skip73
-\f@nch@offset@erh=\skip74
-\f@nch@offset@olh=\skip75
-\f@nch@offset@orh=\skip76
-\f@nch@offset@elf=\skip77
-\f@nch@offset@erf=\skip78
-\f@nch@offset@olf=\skip79
-\f@nch@offset@orf=\skip80
-\f@nch@height=\skip81
-\f@nch@footalignment=\skip82
-\f@nch@widthL=\skip83
-\f@nch@widthC=\skip84
-\f@nch@widthR=\skip85
-\@temptokenb=\toks23
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
-Package: titletoc 2025/01/04 v2.17 TOC entries
+\f@nch@O@elh=\skip73
+\f@nch@O@erh=\skip74
+\f@nch@O@olh=\skip75
+\f@nch@O@orh=\skip76
+\f@nch@O@elf=\skip77
+\f@nch@O@erf=\skip78
+\f@nch@O@olf=\skip79
+\f@nch@O@orf=\skip80
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2023/10/27 v2.16 TOC entries
 \ttl@leftsep=\dimen150
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip86
-\cftbeforetoctitleskip=\skip87
-\cftaftertoctitleskip=\skip88
-\cftbeforepartskip=\skip89
-\cftpartnumwidth=\skip90
-\cftpartindent=\skip91
-\cftbeforesecskip=\skip92
-\cftsecindent=\skip93
-\cftsecnumwidth=\skip94
-\cftbeforesubsecskip=\skip95
-\cftsubsecindent=\skip96
-\cftsubsecnumwidth=\skip97
-\cftbeforesubsubsecskip=\skip98
-\cftsubsubsecindent=\skip99
-\cftsubsubsecnumwidth=\skip100
-\cftbeforeparaskip=\skip101
-\cftparaindent=\skip102
-\cftparanumwidth=\skip103
-\cftbeforesubparaskip=\skip104
-\cftsubparaindent=\skip105
-\cftsubparanumwidth=\skip106
-\cftbeforeloftitleskip=\skip107
-\cftafterloftitleskip=\skip108
-\cftbeforefigskip=\skip109
-\cftfigindent=\skip110
-\cftfignumwidth=\skip111
-\c@lofdepth=\count411
-\c@lotdepth=\count412
-\cftbeforelottitleskip=\skip112
-\cftafterlottitleskip=\skip113
-\cftbeforetabskip=\skip114
-\cfttabindent=\skip115
-\cfttabnumwidth=\skip116
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+\cftparskip=\skip81
+\cftbeforetoctitleskip=\skip82
+\cftaftertoctitleskip=\skip83
+\cftbeforepartskip=\skip84
+\cftpartnumwidth=\skip85
+\cftpartindent=\skip86
+\cftbeforesecskip=\skip87
+\cftsecindent=\skip88
+\cftsecnumwidth=\skip89
+\cftbeforesubsecskip=\skip90
+\cftsubsecindent=\skip91
+\cftsubsecnumwidth=\skip92
+\cftbeforesubsubsecskip=\skip93
+\cftsubsubsecindent=\skip94
+\cftsubsubsecnumwidth=\skip95
+\cftbeforeparaskip=\skip96
+\cftparaindent=\skip97
+\cftparanumwidth=\skip98
+\cftbeforesubparaskip=\skip99
+\cftsubparaindent=\skip100
+\cftsubparanumwidth=\skip101
+\cftbeforeloftitleskip=\skip102
+\cftafterloftitleskip=\skip103
+\cftbeforefigskip=\skip104
+\cftfigindent=\skip105
+\cftfignumwidth=\skip106
+\c@lofdepth=\count410
+\c@lotdepth=\count411
+\cftbeforelottitleskip=\skip107
+\cftafterlottitleskip=\skip108
+\cftbeforetabskip=\skip109
+\cfttabindent=\skip110
+\cfttabnumwidth=\skip111
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip117
+\@mathmargin=\skip112
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks24
+\@emptytoks=\toks22
 \ex@=\dimen151
-)) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen152
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count413
+\inf@bad=\count412
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count414
-\leftroot@=\count415
+\uproot@=\count413
+\leftroot@=\count414
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count416
-\DOTSCASE@=\count417
+\classnum@=\count415
+\DOTSCASE@=\count416
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -461,65 +511,74 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen153
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count418
+\macc@depth=\count417
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count419
+\c@MaxMatrixCols=\count418
 \dotsspace@=\muskip21
-\c@parentequation=\count420
-\dspbrk@lvl=\count421
-\tag@help=\toks25
-\row@=\count422
-\column@=\count423
-\maxfields@=\count424
-\andhelp@=\toks26
+\c@parentequation=\count419
+\dspbrk@lvl=\count420
+\tag@help=\toks23
+\row@=\count421
+\column@=\count422
+\maxfields@=\count423
+\andhelp@=\toks24
 \eqnshift@=\dimen154
 \alignsep@=\dimen155
 \tagshift@=\dimen156
 \tagwidth@=\dimen157
 \totwidth@=\dimen158
 \lineht@=\dimen159
-\@envbody=\toks27
-\multlinegap=\skip118
-\multlinetaggap=\skip119
-\mathdisplay@stack=\toks28
+\@envbody=\toks25
+\multlinegap=\skip113
+\multlinetaggap=\skip114
+\mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen160
 \Gin@req@width=\dimen161
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count425
-\float@exts=\toks29
+\c@float@type=\count424
+\float@exts=\toks27
 \float@box=\box54
-\@float@everytoks=\toks30
+\@float@everytoks=\toks28
 \@floatcapt=\box55
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen162
 \captionmargin=\dimen163
@@ -531,26 +590,37 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@hangindent=\dimen169
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count426
-\c@continuedfloat=\count427
+\c@caption@flags=\count425
+\c@continuedfloat=\count426
 Package caption Info: float package is loaded.
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count428
+\c@subfigure=\count427
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count429
+\c@subtable=\count428
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
-Package csquotes Info: Redefining alias 'default' -> 'spanish'.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 40.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+
+
+Package csquotes Warning: No style for language 'nil'.
+(csquotes)                Using fallback style on input line 40.
+
+Package csquotes Info: Redefining alias 'default' -> 'fallback'.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
+0.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-) (MecFracII.aux
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
+) (./MecFracII.aux
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
+Package babel Info: Importing basic data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+)
+Package babel Info: Hyphen rules for 'spanish' set to \l@nil
+(babel)             (\language6). Reported on input line 9.
 )
 \openout1 = `MecFracII.aux'.
 
@@ -568,8 +638,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -605,20 +673,16 @@ LaTeX Info: Redefining \% on input line 40.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
-Package biblatex Info: ... file 'spanish-apa.lbx' found.
-(C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\spanish-apa.lbx
-File: spanish-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
-Package biblatex Info: Trying to load language 'spanish'...
-Package biblatex Info: ... file 'spanish.lbx' found.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\spanish.lbx
-File: spanish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'spanish'...
-Package biblatex Info: ... file 'spanish.lbx' found.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\spanish.lbx
-File: spanish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-))
+
+Package biblatex Warning: File 'nil-apa.lbx' not found!
+(biblatex)                Ignoring mapping 'nil' -> 'nil-apa'.
+
+Package biblatex Info: Trying to load language 'nil'...
+Package biblatex Info: ... file 'nil.lbx' not found.
+
+Package biblatex Warning: Language 'nil' not supported.
+(biblatex)                Using dummy definitions on input line 40.
+
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -626,143 +690,1189 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MecFracII.bbl' found.
- (MecFracII.bbl)
+(./MecFracII.bbl)
 Package biblatex Info: Reference section=0 on input line 40.
 Package biblatex Info: Reference segment=0 on input line 40.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count430
+\scratchcounter=\count429
 \scratchdimen=\dimen170
 \scratchbox=\box56
-\nofMPsegments=\count431
-\nofMParguments=\count432
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count433
+\nofMPsegments=\count430
+\nofMParguments=\count431
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count432
 \MPscratchDim=\dimen171
-\MPnumerator=\count434
-\makeMPintoPDFobject=\count435
-\everyMPtoPDFconversion=\toks32
-) (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+\MPnumerator=\count433
+\makeMPintoPDFobject=\count434
+\everyMPtoPDFconversion=\toks30
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- [1
 
-{C:/Users/GAVP/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (MecFracII.toc
-LaTeX Info: Redefining \sptext on input line 1.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
+st/fonts/enc/dvips/base/8r.enc}] (./MecFracII.toc
+
+Package biblatex Warning: No localisation for language 'spanish' loaded.
+(biblatex)                Please rerun LaTeX to ensure languages can
+(biblatex)                be requested properly.
+
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
- (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write4
 \openout4 = `MecFracII.toc'.
 
  [1]
-<aa.jpeg, id=10, 1108.14pt x 754.82pt>
+Overfull \hbox (1.33643pt too wide) in paragraph at lines 73--74
+\OT1/ptm/m/n/12 propagaci[]on de grietas en materiales bajo diferentes condicio
+nes de carga. Este documento presenta
+ []
+
+
+Overfull \hbox (12.46008pt too wide) in paragraph at lines 75--76
+\OT1/ptm/m/n/12 trabajos pioneros de Griffith (1921) y ha encontrado aplicacion
+es cruciales en la ingenier[]^^Pa estructural,
+ []
+
+
+Overfull \hbox (0.41153pt too wide) in paragraph at lines 77--78
+\OT1/ptm/m/n/12 como las t[]ecnicas experimentales y num[]ericas modernas para 
+el an[]alisis de la integridad estructural. 
+ []
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'AllisonBeese2022' on input line 84.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.84 ...amillo2008, AllisonBeese2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.84 ...amillo2008, AllisonBeese2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'Cameron2022' on input line 84.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.84 ...amillo2008, AllisonBeese2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'Jaramillo2008' on input line 84.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.84 ...amillo2008, AllisonBeese2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.84 ...amillo2008, AllisonBeese2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (72.9265pt too wide) in paragraph at lines 84--85
+[]\OT1/ptm/m/n/12 , labelyearlabelyeardivisionlabelmonthlabelday[]; Broek, labe
+lyearlabelyeardivisionlabelmonthlabelday[];
+ []
+
+
+Overfull \hbox (21.84315pt too wide) in paragraph at lines 84--85
+\OT1/ptm/m/n/12 labelyearlabelyeardivisionlabelmonthlabelday[]; Ponson, labelye
+arlabelyeardivisionlabelmonthlabelday. 
+ []
+
+<aa.jpeg, id=11, 1108.14pt x 754.82pt>
 File: aa.jpeg Graphic file (type jpg)
 <use aa.jpeg>
 Package pdftex.def Info: aa.jpeg  used on input line 91.
 (pdftex.def)             Requested size: 375.80544pt x 255.9789pt.
- [2]
-<BB.png, id=15, 105.39375pt x 130.23656pt>
+[2]
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.99 ...22, Ponson2022, Broek1982, Jaramillo2008}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'Cameron2022' on input line 99.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.99 ...22, Ponson2022, Broek1982, Jaramillo2008}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'Jaramillo2008' on input line 99.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.99 ...22, Ponson2022, Broek1982, Jaramillo2008}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.99 ...22, Ponson2022, Broek1982, Jaramillo2008}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (160.99371pt too wide) in paragraph at lines 98--101
+\OT1/ptm/m/n/12 contrae. []Broek, labelyearlabelyeardivisionlabelmonthlabelday[
+]; Cameron [], labelyearlabelyeardivisionlabelmonthlabelday[];
+ []
+
+
+Overfull \hbox (160.47754pt too wide) in paragraph at lines 98--101
+\OT1/ptm/m/n/12 Jaramillo Su[]arez [], labelyearlabelyeardivisionlabelmonthlabe
+lday[]; Ponson, labelyearlabelyeardivisionlabelmonthlabelday.
+ []
+
+<BB.png, id=16, 105.39375pt x 130.23656pt>
 File: BB.png Graphic file (type png)
 <use BB.png>
 Package pdftex.def Info: BB.png  used on input line 104.
 (pdftex.def)             Requested size: 140.92793pt x 174.15042pt.
- [3 <./aa.jpeg>]
-<ss.png, id=22, 345.54094pt x 215.30438pt>
+[3 <./aa.jpeg>]
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.112 ...2, Ponson2022, Broek1982, Jaramillo2008}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'Cameron2022' on input line 112.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.112 ...2, Ponson2022, Broek1982, Jaramillo2008}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'Jaramillo2008' on input line 112.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.112 ...2, Ponson2022, Broek1982, Jaramillo2008}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.112 ...2, Ponson2022, Broek1982, Jaramillo2008}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (13.18076pt too wide) in paragraph at lines 112--114
+\OT1/ptm/m/n/12 En cuerpos con gran espesor respecto a otras dimensiones, se de
+sarrolla una condici[]on de deformaci[]on
+ []
+
+
+Overfull \hbox (84.4463pt too wide) in paragraph at lines 112--114
+\OT1/ptm/m/n/12 labelyearlabelyeardivisionlabelmonthlabelday[]; Cameron [], lab
+elyearlabelyeardivisionlabelmonthlabelday[];
+ []
+
+
+Overfull \hbox (160.47754pt too wide) in paragraph at lines 112--114
+\OT1/ptm/m/n/12 Jaramillo Su[]arez [], labelyearlabelyeardivisionlabelmonthlabe
+lday[]; Ponson, labelyearlabelyeardivisionlabelmonthlabelday.
+ []
+
+<ss.png, id=23, 345.54094pt x 215.30438pt>
 File: ss.png Graphic file (type png)
 <use ss.png>
 Package pdftex.def Info: ss.png  used on input line 119.
 (pdftex.def)             Requested size: 187.89914pt x 117.08066pt.
- [4 <./BB.png>] [5 <./ss.png>] [6] [7]
-<ee.png, id=43, 362.85562pt x 258.9675pt>
+[4 <./BB.png>]
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.127 ..., Jaramillo2008, MechanicalBehavior2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'Cameron2022' on input line 127.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.127 ..., Jaramillo2008, MechanicalBehavior2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.127 ..., Jaramillo2008, MechanicalBehavior2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'Jaramillo2008' on input line 127.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.127 ..., Jaramillo2008, MechanicalBehavior2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (202.5136pt too wide) in paragraph at lines 127--128
+\OT1/ptm/m/n/12 Par[]^^Ps y Anderson []Broek, labelyearlabelyeardivisionlabelmo
+nthlabelday[]; Cameron [], labelyearlabelyeardivisionlabelmonthlabelday[];
+ []
+
+
+Overfull \hbox (166.8374pt too wide) in paragraph at lines 127--128
+\OT1/ptm/m/n/12 Dowling, labelyearlabelyeardivisionlabelmonthlabelday[]; Jarami
+llo Su[]arez [], labelyearlabelyeardivisionlabelmonthlabelday. 
+ []
+
+[5 <./ss.png>] [6]
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.201 ...022, MechanicalBehavior2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'Cameron2022' on input line 201.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.201 ...022, MechanicalBehavior2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.201 ...022, MechanicalBehavior2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'Jaramillo2008' on input line 201.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.201 ...022, MechanicalBehavior2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.201 ...022, MechanicalBehavior2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (124.0702pt too wide) in paragraph at lines 200--202
+\OT1/ptm/m/n/12 donde $\OML/cmm/m/it/12 K[]$ \OT1/ptm/m/n/12 es el factor de in
+tensidad y $\OML/cmm/m/it/12 ^^[[]$ \OT1/ptm/m/n/12 el l[]^^Pmite el[]astico de
+l material. []Broek, labelyearlabelyeardivisionlabelmonthlabelday[];
+ []
+
+
+Overfull \hbox (131.56999pt too wide) in paragraph at lines 200--202
+\OT1/ptm/m/n/12 Cameron [], labelyearlabelyeardivisionlabelmonthlabelday[]; Dow
+ling, labelyearlabelyeardivisionlabelmonthlabelday[];
+ []
+
+
+Overfull \hbox (160.47754pt too wide) in paragraph at lines 200--202
+\OT1/ptm/m/n/12 Jaramillo Su[]arez [], labelyearlabelyeardivisionlabelmonthlabe
+lday[]; Ponson, labelyearlabelyeardivisionlabelmonthlabelday. 
+ []
+
+[7]
+<ee.png, id=44, 362.85562pt x 258.9675pt>
 File: ee.png Graphic file (type png)
 <use ee.png>
 Package pdftex.def Info: ee.png  used on input line 207.
 (pdftex.def)             Requested size: 328.82707pt x 234.68474pt.
  [8 <./ee.png>]
-<ff.png, id=49, 654.19406pt x 176.15813pt>
+<ff.png, id=50, 654.19406pt x 176.15813pt>
 File: ff.png Graphic file (type png)
 <use ff.png>
 Package pdftex.def Info: ff.png  used on input line 221.
 (pdftex.def)             Requested size: 422.77664pt x 113.84286pt.
- [9 <./ff.png>]
-<gg.png, id=54, 556.32843pt x 347.04657pt>
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.228 ...008, MechanicalBehavior2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'Cameron2022' on input line 228.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.228 ...008, MechanicalBehavior2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.228 ...008, MechanicalBehavior2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'Jaramillo2008' on input line 228.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.228 ...008, MechanicalBehavior2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.228 ...008, MechanicalBehavior2022, Ponson2022}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (133.5144pt too wide) in paragraph at lines 228--230
+\OT1/ptm/m/n/12 sobre c[]omo se distribuye la plasticidad alrededor de la punta
+ de la grieta. []Broek, labelyearlabelyeardivisionlabelmonthlabelday[];
+ []
+
+
+Overfull \hbox (131.56999pt too wide) in paragraph at lines 228--230
+\OT1/ptm/m/n/12 Cameron [], labelyearlabelyeardivisionlabelmonthlabelday[]; Dow
+ling, labelyearlabelyeardivisionlabelmonthlabelday[];
+ []
+
+
+Overfull \hbox (160.47754pt too wide) in paragraph at lines 228--230
+\OT1/ptm/m/n/12 Jaramillo Su[]arez [], labelyearlabelyeardivisionlabelmonthlabe
+lday[]; Ponson, labelyearlabelyeardivisionlabelmonthlabelday.
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+31.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Overfull \hbox (14.91853pt too wide) in paragraph at lines 231--232
+[]\OT1/ptm/b/n/12 Criterio de Von Mises: \OT1/ptm/m/n/12 Utiliza la tensi[]on e
+quivalente para definir la zona pl[]astica, considerando
+ []
+
+[9 <./ff.png>]
+<gg.png, id=55, 556.32843pt x 347.04657pt>
 File: gg.png Graphic file (type png)
 <use gg.png>
 Package pdftex.def Info: gg.png  used on input line 254.
 (pdftex.def)             Requested size: 375.80544pt x 234.43695pt.
- [10 <./gg.png>]
+ [10]
 <ppp.png, id=59, 468.24937pt x 280.04625pt>
 File: ppp.png Graphic file (type png)
 <use ppp.png>
 Package pdftex.def Info: ppp.png  used on input line 268.
 (pdftex.def)             Requested size: 375.80544pt x 224.77226pt.
- [11 <./ppp.png>]
+ [11 <./gg.png>]
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.276 ...s físicos involucrados \cite{Broek1982}.
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.87099pt too wide) in paragraph at lines 278--279
+[]\OT1/ptm/b/n/12 Enfoque del J-integral: \OT1/ptm/m/n/12 Utiliza el concepto d
+e energ[]^^Pa para definir la zona pl[]astica, considerando
+ []
+
 <cc.png, id=65, 676.77844pt x 457.71pt>
 File: cc.png Graphic file (type png)
 <use cc.png>
 Package pdftex.def Info: cc.png  used on input line 288.
 (pdftex.def)             Requested size: 446.26582pt x 301.82414pt.
-<d.png, id=66, 375.65344pt x 478.03593pt>
+[12 <./ppp.png>]
+<d.png, id=71, 375.65344pt x 478.03593pt>
 File: d.png Graphic file (type png)
 <use d.png>
 Package pdftex.def Info: d.png  used on input line 296.
 (pdftex.def)             Requested size: 399.29463pt x 508.15263pt.
- [12 <./cc.png>] [13 <./d.png>]
 
-Package biblatex Warning: No driver for 'standard'.
-(biblatex)                Using fallback driver on input line 305.
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.299 ...Press-Taylor.}\cite{anderson2017fracture}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[13 <./cc.png>] [14 <./d.png>]
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (4.00984pt too wide) in paragraph at lines 305--305
-[][]\OT1/ptm/m/n/12 ASTM In-ter-na-tio-nal. (2013). \OT1/ptm/m/it/12 Stan-dard Test Method for Linear-Elastic Plane-Strain Frac-tu-re Tough-
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'anderson2005fracture' on input line 305.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'anderson2005fracture' on input line 305.
+
+
+Overfull \hbox (9.86052pt too wide) in paragraph at lines 305--305
+[][]\OT1/ptm/m/n/12 Anderson, T. L. (labelyearlabelyeardivisionlabelmonthlabeld
+ay). \OT1/ptm/m/it/12 Fracture mechanics: Fundamentals
+ []
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'anderson2017fracture' on input line 305.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'anderson2017fracture' on input line 305.
+
+
+Overfull \hbox (9.86052pt too wide) in paragraph at lines 305--305
+[][]\OT1/ptm/m/n/12 Anderson, T. L. (labelyearlabelyeardivisionlabelmonthlabeld
+ay). \OT1/ptm/m/it/12 Fracture mechanics: Fundamentals
  []
 
 
 Package biblatex Warning: No driver for 'standard'.
 (biblatex)                Using fallback driver on input line 305.
 
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 
 Package biblatex Warning: No driver for 'standard'.
 (biblatex)                Using fallback driver on input line 305.
 
-[14] [15] (MecFracII.aux
-LaTeX Info: Redefining \sptext on input line 9.
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
-)
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: No driver for 'standard'.
+(biblatex)                Using fallback driver on input line 305.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'barsom1999fracture' on input line 305.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'barsom1999fracture' on input line 305.
+
+
+Package biblatex Warning: Bibliography string 'andothers' untranslated
+(biblatex)                at entry 'AllisonBeese2022' on input line 305.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Bibliography string 'volume' untranslated
+(biblatex)                at entry 'AllisonBeese2022' on input line 305.
+
+
+Package biblatex Warning: Bibliography string 'volume' untranslated
+(biblatex)                at entry 'AllisonBeese2022' on input line 305.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'Broek1982' on input line 305.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'Broek1982' on input line 305.
+
+
+Overfull \hbox (21.06265pt too wide) in paragraph at lines 305--305
+[][]\OT1/ptm/m/n/12 Broek, D. (labelyearlabelyeardivisionlabelmonthlabelday). \
+OT1/ptm/m/it/12 Elementary engineering fracture mechanics
+ []
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'MechanicalBehavior2022' on input line 305.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'MechanicalBehavior2022' on input line 305.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'gdoutos2005fracture' on input line 305.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'gdoutos2005fracture' on input line 305.
+
+
+Overfull \hbox (10.50839pt too wide) in paragraph at lines 305--305
+[][]\OT1/ptm/m/n/12 Gdoutos, E. E. (labelyearlabelyeardivisionlabelmonthlabelda
+y). \OT1/ptm/m/it/12 Fracture mechanics: An introduction
+ []
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[15]
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'janssen2004fracture' on input line 305.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'janssen2004fracture' on input line 305.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (130.04858pt too wide) in paragraph at lines 305--305
+[][]\OT1/ptm/m/n/12 Jaramillo Su[]arez, H. E., Alba de S[]anchez, N. C., Caniza
+les, J. P., & Toro, []A. J. (labelyearlabelyeardivisionlabelmonthlabelday).
+ []
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (14.81853pt too wide) in paragraph at lines 305--305
+[][]\OT1/ptm/m/n/12 Kanninen, M. F., & Popelar, C. H. (labelyearlabelyeardivisi
+onlabelmonthlabelday). \OT1/ptm/m/it/12 Advanced fracture
+ []
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'suresh1998fatigue' on input line 305.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibordinal.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibordinal.
+
+
+Package biblatex Warning: Bibliography string 'edition' untranslated
+(biblatex)                at entry 'suresh1998fatigue' on input line 305.
+
+
+Overfull \hbox (22.57869pt too wide) in paragraph at lines 305--305
+[][]\OT1/ptm/m/n/12 Suresh, S. (labelyearlabelyeardivisionlabelmonthlabelday). 
+\OT1/ptm/m/it/12 Fatigue of materials \OT1/ptm/m/n/12 (2 []). Cambridge
+ []
+
+[16]
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (122.49474pt too wide) in paragraph at lines 305--305
+[][]\OT1/ptm/m/n/12 Sutton, M. A., Wolters, W. J., Peters, W. H., Ranson, W. F.
+, & McNeill, S. R. (labelyearlabelyeardivisionlabelmonthlabelday).
+ []
+
+! Undefined control sequence.
+<argument> \datecircaprint \mkbibdateapalongextra 
+                                                  {labelyear}{labelyeardivis...
+l.305 \printbibliography[title=Referencias]
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[17] (./MecFracII.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
+L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'MecFracII.run.xml'.
 \openout1 = `MecFracII.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15909 strings out of 474486
- 298929 string characters out of 5744228
- 1935542 words of memory out of 5000000
- 38019 multiletter control sequences out of 15000+600000
- 577644 words of font info for 81 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 66i,13n,81p,741b,2811s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on MecFracII.pdf (16 pages, 584224 bytes).
+ 14460 strings out of 476182
+ 269663 string characters out of 5795595
+ 1933975 words of memory out of 5000000
+ 36300 multiletter control sequences out of 15000+600000
+ 576880 words of font info for 81 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 66i,13n,81p,682b,1438s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8
+a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on MecFracII.pdf (18 pages, 571866 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
