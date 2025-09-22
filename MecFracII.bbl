@@ -1,0 +1,1917 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{anderson2005fracture}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=58bcc62de2800dfa11db05ab20f3aac6}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={T.\bibnamedelimi L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boca Raton, FL}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{fullhash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{bibnamehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{authorbibnamehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{authornamehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{authorfullhash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Fracture Mechanics: Fundamentals and Applications}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{anderson2017fracture}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=58bcc62de2800dfa11db05ab20f3aac6}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={T.\bibnamedelimi L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boca Raton, FL}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press-Taylor \& Francis Group}%
+      }
+      \strng{namehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{fullhash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{bibnamehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{authorbibnamehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{authornamehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{authorfullhash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Fracture Mechanics: Fundamentals and Applications}
+      \field{year}{2017}
+    \endentry
+    \entry{astm2013standard}{standard}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=485576da492c1d30068adfd77e2f7a82}{%
+           family={{ASTM International}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {West Conshohocken, PA}%
+      }
+      \strng{namehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{fullhash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{bibnamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authorbibnamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authornamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authorfullhash}{485576da492c1d30068adfd77e2f7a82}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{E399-12e3}
+      \field{title}{Standard Test Method for Linear-Elastic Plane-Strain Fracture Toughness {$K_{IC}$} of Metallic Materials}
+      \field{year}{2013}
+      \true{nocite}
+    \endentry
+    \entry{astm2015standard}{standard}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=485576da492c1d30068adfd77e2f7a82}{%
+           family={{ASTM International}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {West Conshohocken, PA}%
+      }
+      \strng{namehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{fullhash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{bibnamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authorbibnamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authornamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authorfullhash}{485576da492c1d30068adfd77e2f7a82}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{E647-15e1}
+      \field{title}{Standard Test Method for Measurement of Fatigue Crack Growth Rates}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{astm2020standard}{standard}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=485576da492c1d30068adfd77e2f7a82}{%
+           family={{ASTM International}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {West Conshohocken, PA}%
+      }
+      \strng{namehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{fullhash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{bibnamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authorbibnamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authornamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authorfullhash}{485576da492c1d30068adfd77e2f7a82}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{E1820-20a}
+      \field{title}{Standard Test Method for Measurement of Fracture Toughness}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{barsom1999fracture}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=674016696b1b056f99df96189c845ae2}{%
+           family={Barsom},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da7963e7f6f8ecc77061832aa9480b2f}{%
+           family={Rolfe},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {West Conshohocken, PA}%
+      }
+      \list{publisher}{1}{%
+        {ASTM International}%
+      }
+      \strng{namehash}{3c50128ccf98ba9d8fc2ef126c297a02}
+      \strng{fullhash}{3c50128ccf98ba9d8fc2ef126c297a02}
+      \strng{bibnamehash}{3c50128ccf98ba9d8fc2ef126c297a02}
+      \strng{authorbibnamehash}{3c50128ccf98ba9d8fc2ef126c297a02}
+      \strng{authornamehash}{3c50128ccf98ba9d8fc2ef126c297a02}
+      \strng{authorfullhash}{3c50128ccf98ba9d8fc2ef126c297a02}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Fracture and fatigue control in structures: applications of fracture mechanics}
+      \field{year}{1999}
+      \true{nocite}
+    \endentry
+    \entry{AllisonBeese2022}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a43bfae6f07b7ab73393a5180e2ad5b0}{%
+           family={Beese},
+           familyi={B\bibinitperiod},
+           given={Allison},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{c3f1996c008910c15000e9f6eb20defb}
+      \strng{fullhash}{c3f1996c008910c15000e9f6eb20defb}
+      \strng{bibnamehash}{c3f1996c008910c15000e9f6eb20defb}
+      \strng{authorbibnamehash}{c3f1996c008910c15000e9f6eb20defb}
+      \strng{authornamehash}{c3f1996c008910c15000e9f6eb20defb}
+      \strng{authorfullhash}{c3f1996c008910c15000e9f6eb20defb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fracture, Fatigue, Failure and Damage Evolution}
+      \field{volume}{3}
+      \field{year}{2022}
+    \endentry
+    \entry{belytschko1999elastic}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=87de48ed585a7dc01f0a933d6a6c62b0}{%
+           family={Belytschko},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45dfda1f9f90ffe87636f8f028d6948d}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{2eae777e0b7538b646dcd5ca984adaa9}
+      \strng{fullhash}{2eae777e0b7538b646dcd5ca984adaa9}
+      \strng{bibnamehash}{2eae777e0b7538b646dcd5ca984adaa9}
+      \strng{authorbibnamehash}{2eae777e0b7538b646dcd5ca984adaa9}
+      \strng{authornamehash}{2eae777e0b7538b646dcd5ca984adaa9}
+      \strng{authorfullhash}{2eae777e0b7538b646dcd5ca984adaa9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal for Numerical Methods in Engineering}
+      \field{number}{5}
+      \field{title}{Elastic crack growth in finite elements with minimal remeshing}
+      \field{volume}{45}
+      \field{year}{1999}
+      \true{nocite}
+      \field{pages}{601\bibrangedash 620}
+      \range{pages}{20}
+    \endentry
+    \entry{Broek1982}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=16ed4b1306617f546b8b7bb8daf661e4}{%
+           family={Broek},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht, Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {Martinus Nijhoff Publishers}%
+      }
+      \strng{namehash}{16ed4b1306617f546b8b7bb8daf661e4}
+      \strng{fullhash}{16ed4b1306617f546b8b7bb8daf661e4}
+      \strng{bibnamehash}{16ed4b1306617f546b8b7bb8daf661e4}
+      \strng{authorbibnamehash}{16ed4b1306617f546b8b7bb8daf661e4}
+      \strng{authornamehash}{16ed4b1306617f546b8b7bb8daf661e4}
+      \strng{authorfullhash}{16ed4b1306617f546b8b7bb8daf661e4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Elementary Engineering Fracture Mechanics}
+      \field{year}{1982}
+    \endentry
+    \entry{Cameron2022}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=647d959b1df0455736ee2e5a01dcddfa}{%
+           family={Cameron},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e2dfe6b083d38f0e1c59ad9ab1e9ce5}{%
+           family={Coates},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4715680906440a98c68d6da1eebf4556}{%
+           family={Sooklal},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London, UK}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{586eeea16dbee0dc7b55f6d663e91b34}
+      \strng{fullhash}{6137a41beb9e1bee5d8021742956db07}
+      \strng{bibnamehash}{6137a41beb9e1bee5d8021742956db07}
+      \strng{authorbibnamehash}{6137a41beb9e1bee5d8021742956db07}
+      \strng{authornamehash}{586eeea16dbee0dc7b55f6d663e91b34}
+      \strng{authorfullhash}{6137a41beb9e1bee5d8021742956db07}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modern Applied Fracture Mechanics}
+      \field{year}{2022}
+    \endentry
+    \entry{MechanicalBehavior2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93361b88c47176514a8686502e878c15}{%
+           family={Dowling},
+           familyi={D\bibinitperiod},
+           given={N.\bibnamedelimi E.},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{93361b88c47176514a8686502e878c15}
+      \strng{fullhash}{93361b88c47176514a8686502e878c15}
+      \strng{bibnamehash}{93361b88c47176514a8686502e878c15}
+      \strng{authorbibnamehash}{93361b88c47176514a8686502e878c15}
+      \strng{authornamehash}{93361b88c47176514a8686502e878c15}
+      \strng{authorfullhash}{93361b88c47176514a8686502e878c15}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Mechanical Behavior of Materials}
+      \field{year}{2013}
+    \endentry
+    \entry{gdoutos2005fracture}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dee9000e438d90f4aad18f22395ee79f}{%
+           family={Gdoutos},
+           familyi={G\bibinitperiod},
+           given={E.\bibnamedelimi E.},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht, Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{dee9000e438d90f4aad18f22395ee79f}
+      \strng{fullhash}{dee9000e438d90f4aad18f22395ee79f}
+      \strng{bibnamehash}{dee9000e438d90f4aad18f22395ee79f}
+      \strng{authorbibnamehash}{dee9000e438d90f4aad18f22395ee79f}
+      \strng{authornamehash}{dee9000e438d90f4aad18f22395ee79f}
+      \strng{authorfullhash}{dee9000e438d90f4aad18f22395ee79f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Fracture Mechanics: An Introduction}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{griffith1921phenomena}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=702bb1eb27c5e9c34300923b1aacd395}{%
+           family={Griffith},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{702bb1eb27c5e9c34300923b1aacd395}
+      \strng{fullhash}{702bb1eb27c5e9c34300923b1aacd395}
+      \strng{bibnamehash}{702bb1eb27c5e9c34300923b1aacd395}
+      \strng{authorbibnamehash}{702bb1eb27c5e9c34300923b1aacd395}
+      \strng{authornamehash}{702bb1eb27c5e9c34300923b1aacd395}
+      \strng{authorfullhash}{702bb1eb27c5e9c34300923b1aacd395}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society of London}
+      \field{number}{582-593}
+      \field{title}{The phenomena of rupture and flow in solids}
+      \field{volume}{221}
+      \field{year}{1921}
+      \true{nocite}
+      \field{pages}{163\bibrangedash 198}
+      \range{pages}{36}
+    \endentry
+    \entry{hutchinson1968singular}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dfda9f1f34f1f8c03d374c8319680911}{%
+           family={Hutchinson},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{fullhash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{bibnamehash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{authorbibnamehash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{authornamehash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{authorfullhash}{dfda9f1f34f1f8c03d374c8319680911}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Mechanics and Physics of Solids}
+      \field{number}{1}
+      \field{title}{Singular behaviour at the end of a tensile crack in a hardening material}
+      \field{volume}{16}
+      \field{year}{1968}
+      \true{nocite}
+      \field{pages}{13\bibrangedash 31}
+      \range{pages}{19}
+    \endentry
+    \entry{irwin1957analysis}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cb95b4478738fd14fa8298c359b92e2d}{%
+           family={Irwin},
+           familyi={I\bibinitperiod},
+           given={G.\bibnamedelimi R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Mechanical Engineers}%
+      }
+      \strng{namehash}{cb95b4478738fd14fa8298c359b92e2d}
+      \strng{fullhash}{cb95b4478738fd14fa8298c359b92e2d}
+      \strng{bibnamehash}{cb95b4478738fd14fa8298c359b92e2d}
+      \strng{authorbibnamehash}{cb95b4478738fd14fa8298c359b92e2d}
+      \strng{authornamehash}{cb95b4478738fd14fa8298c359b92e2d}
+      \strng{authorfullhash}{cb95b4478738fd14fa8298c359b92e2d}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Mechanics}
+      \field{title}{Analysis of stresses and strains near the end of a crack traversing a plate}
+      \field{volume}{24}
+      \field{year}{1957}
+      \true{nocite}
+      \field{pages}{361\bibrangedash 364}
+      \range{pages}{4}
+    \endentry
+    \entry{janssen2004fracture}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5f2ed32f974edf2414ef3e60b7bad448}{%
+           family={Janssen},
+           familyi={J\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6da7a886185ddc526c7e98f746a96e1}{%
+           family={Zuidema},
+           familyi={Z\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fad76dc8c472a92911da5134de231680}{%
+           family={Wanhill},
+           familyi={W\bibinitperiod},
+           given={R.\bibnamedelimi J.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London, UK}%
+      }
+      \list{publisher}{1}{%
+        {Spon Press}%
+      }
+      \strng{namehash}{bdf46c9fd444806304c18f0ebdef3834}
+      \strng{fullhash}{2ae012d366b5552152d6f7c2fc87181e}
+      \strng{bibnamehash}{2ae012d366b5552152d6f7c2fc87181e}
+      \strng{authorbibnamehash}{2ae012d366b5552152d6f7c2fc87181e}
+      \strng{authornamehash}{bdf46c9fd444806304c18f0ebdef3834}
+      \strng{authorfullhash}{2ae012d366b5552152d6f7c2fc87181e}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Fracture Mechanics}
+      \field{year}{2004}
+      \true{nocite}
+    \endentry
+    \entry{Jaramillo2008}{book}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3d2d2e15adcebf3deea2efb9d2c7f83e}{%
+           family={Jaramillo\bibnamedelima Suárez},
+           familyi={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={H.\bibnamedelimi E.},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e23816878a983aca399c924354c89ef9}{%
+           family={Alba\bibnamedelimb de\bibnamedelima Sánchez},
+           familyi={A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={N.\bibnamedelimi C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a84452f6a59a3228dec9c62daecd6885}{%
+           family={Canizales},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5b487a20ebe7d1ad13ae9a3a058cb0e}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={Á.\bibnamedelimi J.},
+           giveni={Á\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cali, Colombia}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Autónoma de Occidente}%
+      }
+      \strng{namehash}{a4ccfa5d160b384dfd5eeb884f45f034}
+      \strng{fullhash}{095f522f52d1d6a75568f5a8755529c0}
+      \strng{bibnamehash}{095f522f52d1d6a75568f5a8755529c0}
+      \strng{authorbibnamehash}{095f522f52d1d6a75568f5a8755529c0}
+      \strng{authornamehash}{a4ccfa5d160b384dfd5eeb884f45f034}
+      \strng{authorfullhash}{095f522f52d1d6a75568f5a8755529c0}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introducción a la mecánica de la fractura y análisis de fallas}
+      \field{year}{2008}
+    \endentry
+    \entry{kanninen1985advanced}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f771b55fb705df67cf22b71332dfc938}{%
+           family={Kanninen},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26e1c1efc15dc12aa20ea5fda87f453c}{%
+           family={Popelar},
+           familyi={P\bibinitperiod},
+           given={C.\bibnamedelimi H.},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{d8d5c28d09db1a2de4b6748cf5495934}
+      \strng{fullhash}{d8d5c28d09db1a2de4b6748cf5495934}
+      \strng{bibnamehash}{d8d5c28d09db1a2de4b6748cf5495934}
+      \strng{authorbibnamehash}{d8d5c28d09db1a2de4b6748cf5495934}
+      \strng{authornamehash}{d8d5c28d09db1a2de4b6748cf5495934}
+      \strng{authorfullhash}{d8d5c28d09db1a2de4b6748cf5495934}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Advanced Fracture Mechanics}
+      \field{year}{1985}
+      \true{nocite}
+    \endentry
+    \entry{moes1999finite}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ca933a304e59ca5929a562992682ad36}{%
+           family={Moës},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6528321e3302b1295d4624ca2c1b6e1}{%
+           family={Dolbow},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87de48ed585a7dc01f0a933d6a6c62b0}{%
+           family={Belytschko},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{f7e0018aa93e0a5fe4cd378d224bbcef}
+      \strng{fullhash}{ab3b122ff707059d7f5bf14957001703}
+      \strng{bibnamehash}{ab3b122ff707059d7f5bf14957001703}
+      \strng{authorbibnamehash}{ab3b122ff707059d7f5bf14957001703}
+      \strng{authornamehash}{f7e0018aa93e0a5fe4cd378d224bbcef}
+      \strng{authorfullhash}{ab3b122ff707059d7f5bf14957001703}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal for Numerical Methods in Engineering}
+      \field{number}{1}
+      \field{title}{A finite element method for crack growth without remeshing}
+      \field{volume}{46}
+      \field{year}{1999}
+      \true{nocite}
+      \field{pages}{131\bibrangedash 150}
+      \range{pages}{20}
+    \endentry
+    \entry{paris1963stress}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b7e0bb562104e02793f1bcadc780e6bc}{%
+           family={Paris},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bcfae5cafa428073b9cca9a20f52597}{%
+           family={Erdogan},
+           familyi={E\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Mechanical Engineers}%
+      }
+      \strng{namehash}{d727c87a207e5d6e2d45172fd8d08507}
+      \strng{fullhash}{d727c87a207e5d6e2d45172fd8d08507}
+      \strng{bibnamehash}{d727c87a207e5d6e2d45172fd8d08507}
+      \strng{authorbibnamehash}{d727c87a207e5d6e2d45172fd8d08507}
+      \strng{authornamehash}{d727c87a207e5d6e2d45172fd8d08507}
+      \strng{authorfullhash}{d727c87a207e5d6e2d45172fd8d08507}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Basic Engineering}
+      \field{number}{4}
+      \field{title}{A critical analysis of crack propagation laws}
+      \field{volume}{85}
+      \field{year}{1963}
+      \true{nocite}
+      \field{pages}{528\bibrangedash 533}
+      \range{pages}{6}
+    \endentry
+    \entry{Ponson2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=acae2630eb9ee68305d63105ec0f87b4}{%
+           family={Ponson},
+           familyi={P\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, UK}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{acae2630eb9ee68305d63105ec0f87b4}
+      \strng{fullhash}{acae2630eb9ee68305d63105ec0f87b4}
+      \strng{bibnamehash}{acae2630eb9ee68305d63105ec0f87b4}
+      \strng{authorbibnamehash}{acae2630eb9ee68305d63105ec0f87b4}
+      \strng{authornamehash}{acae2630eb9ee68305d63105ec0f87b4}
+      \strng{authorfullhash}{acae2630eb9ee68305d63105ec0f87b4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mechanics and Physics of Fracture}
+      \field{year}{2022}
+    \endentry
+    \entry{rice1968path}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=982c9b19f34905165b077c594361097a}{%
+           family={Rice},
+           familyi={R\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Mechanical Engineers}%
+      }
+      \strng{namehash}{982c9b19f34905165b077c594361097a}
+      \strng{fullhash}{982c9b19f34905165b077c594361097a}
+      \strng{bibnamehash}{982c9b19f34905165b077c594361097a}
+      \strng{authorbibnamehash}{982c9b19f34905165b077c594361097a}
+      \strng{authornamehash}{982c9b19f34905165b077c594361097a}
+      \strng{authorfullhash}{982c9b19f34905165b077c594361097a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Mechanics}
+      \field{number}{2}
+      \field{title}{A path independent integral and the approximate analysis of strain concentration by notches and cracks}
+      \field{volume}{35}
+      \field{year}{1968}
+      \true{nocite}
+      \field{pages}{379\bibrangedash 386}
+      \range{pages}{8}
+    \endentry
+    \entry{schijve2001fatigue}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a8b158b87cda7baacc048c6c4c08c10}{%
+           family={Schijve},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5a8b158b87cda7baacc048c6c4c08c10}
+      \strng{fullhash}{5a8b158b87cda7baacc048c6c4c08c10}
+      \strng{bibnamehash}{5a8b158b87cda7baacc048c6c4c08c10}
+      \strng{authorbibnamehash}{5a8b158b87cda7baacc048c6c4c08c10}
+      \strng{authornamehash}{5a8b158b87cda7baacc048c6c4c08c10}
+      \strng{authorfullhash}{5a8b158b87cda7baacc048c6c4c08c10}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Fatigue}
+      \field{number}{8}
+      \field{title}{Fatigue of structures and materials in the 20th century and the state of the art}
+      \field{volume}{23}
+      \field{year}{2001}
+      \true{nocite}
+      \field{pages}{679\bibrangedash 702}
+      \range{pages}{24}
+    \endentry
+    \entry{suresh1998fatigue}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1c40bc078eb7a9e008812c6bb1bea993}{%
+           family={Suresh},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, UK}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{1c40bc078eb7a9e008812c6bb1bea993}
+      \strng{fullhash}{1c40bc078eb7a9e008812c6bb1bea993}
+      \strng{bibnamehash}{1c40bc078eb7a9e008812c6bb1bea993}
+      \strng{authorbibnamehash}{1c40bc078eb7a9e008812c6bb1bea993}
+      \strng{authornamehash}{1c40bc078eb7a9e008812c6bb1bea993}
+      \strng{authorfullhash}{1c40bc078eb7a9e008812c6bb1bea993}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Fatigue of Materials}
+      \field{year}{1998}
+      \true{nocite}
+    \endentry
+    \entry{sutton2009application}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=de97c815cbb6305591067f9fac518799}{%
+           family={Sutton},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a5369dc1cf93e0dda86fd163d5b4569}{%
+           family={Wolters},
+           familyi={W\bibinitperiod},
+           given={W.\bibnamedelimi J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4041f86ff5106798cda69a1835a7562}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={W.\bibnamedelimi H.},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68ad6fc9a2ad2161c47bf45af4f43547}{%
+           family={Ranson},
+           familyi={R\bibinitperiod},
+           given={W.\bibnamedelimi F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1a5fbbd38df7926e083d7da4567c5ea}{%
+           family={McNeill},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9dddbb9944c21a8d8bb44f2d7ad22a96}
+      \strng{fullhash}{a804f2b132837da17efdb1cf7d5f32f5}
+      \strng{bibnamehash}{a804f2b132837da17efdb1cf7d5f32f5}
+      \strng{authorbibnamehash}{a804f2b132837da17efdb1cf7d5f32f5}
+      \strng{authornamehash}{9dddbb9944c21a8d8bb44f2d7ad22a96}
+      \strng{authorfullhash}{a804f2b132837da17efdb1cf7d5f32f5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Image and Vision Computing}
+      \field{number}{3}
+      \field{title}{Application of an optimized digital correlation method to planar deformation analysis}
+      \field{volume}{4}
+      \field{year}{1986}
+      \true{nocite}
+      \field{pages}{143\bibrangedash 150}
+      \range{pages}{8}
+    \endentry
+    \entry{zehnder2012fracture}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fd4fab832f40a3444e77379630abe7f1}{%
+           family={Zehnder},
+           familyi={Z\bibinitperiod},
+           given={A.\bibnamedelimi T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht, Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{fd4fab832f40a3444e77379630abe7f1}
+      \strng{fullhash}{fd4fab832f40a3444e77379630abe7f1}
+      \strng{bibnamehash}{fd4fab832f40a3444e77379630abe7f1}
+      \strng{authorbibnamehash}{fd4fab832f40a3444e77379630abe7f1}
+      \strng{authornamehash}{fd4fab832f40a3444e77379630abe7f1}
+      \strng{authorfullhash}{fd4fab832f40a3444e77379630abe7f1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fracture Mechanics}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{anderson2005fracture}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=58bcc62de2800dfa11db05ab20f3aac6}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={T.\bibnamedelimi L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boca Raton, FL}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{fullhash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{bibnamehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{authorbibnamehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{authornamehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{authorfullhash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Fracture Mechanics: Fundamentals and Applications}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{anderson2017fracture}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=58bcc62de2800dfa11db05ab20f3aac6}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={T.\bibnamedelimi L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boca Raton, FL}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press-Taylor \& Francis Group}%
+      }
+      \strng{namehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{fullhash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{bibnamehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{authorbibnamehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{authornamehash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \strng{authorfullhash}{58bcc62de2800dfa11db05ab20f3aac6}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Fracture Mechanics: Fundamentals and Applications}
+      \field{year}{2017}
+    \endentry
+    \entry{astm2013standard}{standard}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=485576da492c1d30068adfd77e2f7a82}{%
+           family={{ASTM International}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {West Conshohocken, PA}%
+      }
+      \strng{namehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{fullhash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{bibnamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authorbibnamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authornamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authorfullhash}{485576da492c1d30068adfd77e2f7a82}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{E399-12e3}
+      \field{title}{Standard Test Method for Linear-Elastic Plane-Strain Fracture Toughness {$K_{IC}$} of Metallic Materials}
+      \field{year}{2013}
+      \true{nocite}
+    \endentry
+    \entry{astm2015standard}{standard}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=485576da492c1d30068adfd77e2f7a82}{%
+           family={{ASTM International}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {West Conshohocken, PA}%
+      }
+      \strng{namehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{fullhash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{bibnamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authorbibnamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authornamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authorfullhash}{485576da492c1d30068adfd77e2f7a82}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{E647-15e1}
+      \field{title}{Standard Test Method for Measurement of Fatigue Crack Growth Rates}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{astm2020standard}{standard}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=485576da492c1d30068adfd77e2f7a82}{%
+           family={{ASTM International}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {West Conshohocken, PA}%
+      }
+      \strng{namehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{fullhash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{bibnamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authorbibnamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authornamehash}{485576da492c1d30068adfd77e2f7a82}
+      \strng{authorfullhash}{485576da492c1d30068adfd77e2f7a82}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{E1820-20a}
+      \field{title}{Standard Test Method for Measurement of Fracture Toughness}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{barsom1999fracture}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=674016696b1b056f99df96189c845ae2}{%
+           family={Barsom},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da7963e7f6f8ecc77061832aa9480b2f}{%
+           family={Rolfe},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {West Conshohocken, PA}%
+      }
+      \list{publisher}{1}{%
+        {ASTM International}%
+      }
+      \strng{namehash}{3c50128ccf98ba9d8fc2ef126c297a02}
+      \strng{fullhash}{3c50128ccf98ba9d8fc2ef126c297a02}
+      \strng{bibnamehash}{3c50128ccf98ba9d8fc2ef126c297a02}
+      \strng{authorbibnamehash}{3c50128ccf98ba9d8fc2ef126c297a02}
+      \strng{authornamehash}{3c50128ccf98ba9d8fc2ef126c297a02}
+      \strng{authorfullhash}{3c50128ccf98ba9d8fc2ef126c297a02}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Fracture and fatigue control in structures: applications of fracture mechanics}
+      \field{year}{1999}
+      \true{nocite}
+    \endentry
+    \entry{AllisonBeese2022}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a43bfae6f07b7ab73393a5180e2ad5b0}{%
+           family={Beese},
+           familyi={B\bibinitperiod},
+           given={Allison},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{c3f1996c008910c15000e9f6eb20defb}
+      \strng{fullhash}{c3f1996c008910c15000e9f6eb20defb}
+      \strng{bibnamehash}{c3f1996c008910c15000e9f6eb20defb}
+      \strng{authorbibnamehash}{c3f1996c008910c15000e9f6eb20defb}
+      \strng{authornamehash}{c3f1996c008910c15000e9f6eb20defb}
+      \strng{authorfullhash}{c3f1996c008910c15000e9f6eb20defb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fracture, Fatigue, Failure and Damage Evolution}
+      \field{volume}{3}
+      \field{year}{2022}
+    \endentry
+    \entry{belytschko1999elastic}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=87de48ed585a7dc01f0a933d6a6c62b0}{%
+           family={Belytschko},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45dfda1f9f90ffe87636f8f028d6948d}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{2eae777e0b7538b646dcd5ca984adaa9}
+      \strng{fullhash}{2eae777e0b7538b646dcd5ca984adaa9}
+      \strng{bibnamehash}{2eae777e0b7538b646dcd5ca984adaa9}
+      \strng{authorbibnamehash}{2eae777e0b7538b646dcd5ca984adaa9}
+      \strng{authornamehash}{2eae777e0b7538b646dcd5ca984adaa9}
+      \strng{authorfullhash}{2eae777e0b7538b646dcd5ca984adaa9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal for Numerical Methods in Engineering}
+      \field{number}{5}
+      \field{title}{Elastic crack growth in finite elements with minimal remeshing}
+      \field{volume}{45}
+      \field{year}{1999}
+      \true{nocite}
+      \field{pages}{601\bibrangedash 620}
+      \range{pages}{20}
+    \endentry
+    \entry{Broek1982}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=16ed4b1306617f546b8b7bb8daf661e4}{%
+           family={Broek},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht, Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {Martinus Nijhoff Publishers}%
+      }
+      \strng{namehash}{16ed4b1306617f546b8b7bb8daf661e4}
+      \strng{fullhash}{16ed4b1306617f546b8b7bb8daf661e4}
+      \strng{bibnamehash}{16ed4b1306617f546b8b7bb8daf661e4}
+      \strng{authorbibnamehash}{16ed4b1306617f546b8b7bb8daf661e4}
+      \strng{authornamehash}{16ed4b1306617f546b8b7bb8daf661e4}
+      \strng{authorfullhash}{16ed4b1306617f546b8b7bb8daf661e4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Elementary Engineering Fracture Mechanics}
+      \field{year}{1982}
+    \endentry
+    \entry{Cameron2022}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=647d959b1df0455736ee2e5a01dcddfa}{%
+           family={Cameron},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e2dfe6b083d38f0e1c59ad9ab1e9ce5}{%
+           family={Coates},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4715680906440a98c68d6da1eebf4556}{%
+           family={Sooklal},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London, UK}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{586eeea16dbee0dc7b55f6d663e91b34}
+      \strng{fullhash}{6137a41beb9e1bee5d8021742956db07}
+      \strng{bibnamehash}{6137a41beb9e1bee5d8021742956db07}
+      \strng{authorbibnamehash}{6137a41beb9e1bee5d8021742956db07}
+      \strng{authornamehash}{586eeea16dbee0dc7b55f6d663e91b34}
+      \strng{authorfullhash}{6137a41beb9e1bee5d8021742956db07}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modern Applied Fracture Mechanics}
+      \field{year}{2022}
+    \endentry
+    \entry{MechanicalBehavior2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93361b88c47176514a8686502e878c15}{%
+           family={Dowling},
+           familyi={D\bibinitperiod},
+           given={N.\bibnamedelimi E.},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{93361b88c47176514a8686502e878c15}
+      \strng{fullhash}{93361b88c47176514a8686502e878c15}
+      \strng{bibnamehash}{93361b88c47176514a8686502e878c15}
+      \strng{authorbibnamehash}{93361b88c47176514a8686502e878c15}
+      \strng{authornamehash}{93361b88c47176514a8686502e878c15}
+      \strng{authorfullhash}{93361b88c47176514a8686502e878c15}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Mechanical Behavior of Materials}
+      \field{year}{2013}
+    \endentry
+    \entry{gdoutos2005fracture}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dee9000e438d90f4aad18f22395ee79f}{%
+           family={Gdoutos},
+           familyi={G\bibinitperiod},
+           given={E.\bibnamedelimi E.},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht, Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{dee9000e438d90f4aad18f22395ee79f}
+      \strng{fullhash}{dee9000e438d90f4aad18f22395ee79f}
+      \strng{bibnamehash}{dee9000e438d90f4aad18f22395ee79f}
+      \strng{authorbibnamehash}{dee9000e438d90f4aad18f22395ee79f}
+      \strng{authornamehash}{dee9000e438d90f4aad18f22395ee79f}
+      \strng{authorfullhash}{dee9000e438d90f4aad18f22395ee79f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Fracture Mechanics: An Introduction}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{griffith1921phenomena}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=702bb1eb27c5e9c34300923b1aacd395}{%
+           family={Griffith},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{702bb1eb27c5e9c34300923b1aacd395}
+      \strng{fullhash}{702bb1eb27c5e9c34300923b1aacd395}
+      \strng{bibnamehash}{702bb1eb27c5e9c34300923b1aacd395}
+      \strng{authorbibnamehash}{702bb1eb27c5e9c34300923b1aacd395}
+      \strng{authornamehash}{702bb1eb27c5e9c34300923b1aacd395}
+      \strng{authorfullhash}{702bb1eb27c5e9c34300923b1aacd395}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society of London}
+      \field{number}{582-593}
+      \field{title}{The phenomena of rupture and flow in solids}
+      \field{volume}{221}
+      \field{year}{1921}
+      \true{nocite}
+      \field{pages}{163\bibrangedash 198}
+      \range{pages}{36}
+    \endentry
+    \entry{hutchinson1968singular}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dfda9f1f34f1f8c03d374c8319680911}{%
+           family={Hutchinson},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{fullhash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{bibnamehash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{authorbibnamehash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{authornamehash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{authorfullhash}{dfda9f1f34f1f8c03d374c8319680911}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Mechanics and Physics of Solids}
+      \field{number}{1}
+      \field{title}{Singular behaviour at the end of a tensile crack in a hardening material}
+      \field{volume}{16}
+      \field{year}{1968}
+      \true{nocite}
+      \field{pages}{13\bibrangedash 31}
+      \range{pages}{19}
+    \endentry
+    \entry{irwin1957analysis}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cb95b4478738fd14fa8298c359b92e2d}{%
+           family={Irwin},
+           familyi={I\bibinitperiod},
+           given={G.\bibnamedelimi R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Mechanical Engineers}%
+      }
+      \strng{namehash}{cb95b4478738fd14fa8298c359b92e2d}
+      \strng{fullhash}{cb95b4478738fd14fa8298c359b92e2d}
+      \strng{bibnamehash}{cb95b4478738fd14fa8298c359b92e2d}
+      \strng{authorbibnamehash}{cb95b4478738fd14fa8298c359b92e2d}
+      \strng{authornamehash}{cb95b4478738fd14fa8298c359b92e2d}
+      \strng{authorfullhash}{cb95b4478738fd14fa8298c359b92e2d}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Mechanics}
+      \field{title}{Analysis of stresses and strains near the end of a crack traversing a plate}
+      \field{volume}{24}
+      \field{year}{1957}
+      \true{nocite}
+      \field{pages}{361\bibrangedash 364}
+      \range{pages}{4}
+    \endentry
+    \entry{janssen2004fracture}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5f2ed32f974edf2414ef3e60b7bad448}{%
+           family={Janssen},
+           familyi={J\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6da7a886185ddc526c7e98f746a96e1}{%
+           family={Zuidema},
+           familyi={Z\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fad76dc8c472a92911da5134de231680}{%
+           family={Wanhill},
+           familyi={W\bibinitperiod},
+           given={R.\bibnamedelimi J.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London, UK}%
+      }
+      \list{publisher}{1}{%
+        {Spon Press}%
+      }
+      \strng{namehash}{bdf46c9fd444806304c18f0ebdef3834}
+      \strng{fullhash}{2ae012d366b5552152d6f7c2fc87181e}
+      \strng{bibnamehash}{2ae012d366b5552152d6f7c2fc87181e}
+      \strng{authorbibnamehash}{2ae012d366b5552152d6f7c2fc87181e}
+      \strng{authornamehash}{bdf46c9fd444806304c18f0ebdef3834}
+      \strng{authorfullhash}{2ae012d366b5552152d6f7c2fc87181e}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Fracture Mechanics}
+      \field{year}{2004}
+      \true{nocite}
+    \endentry
+    \entry{Jaramillo2008}{book}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3d2d2e15adcebf3deea2efb9d2c7f83e}{%
+           family={Jaramillo\bibnamedelima Suárez},
+           familyi={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={H.\bibnamedelimi E.},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e23816878a983aca399c924354c89ef9}{%
+           family={Alba\bibnamedelimb de\bibnamedelima Sánchez},
+           familyi={A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={N.\bibnamedelimi C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a84452f6a59a3228dec9c62daecd6885}{%
+           family={Canizales},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5b487a20ebe7d1ad13ae9a3a058cb0e}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={Á.\bibnamedelimi J.},
+           giveni={Á\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cali, Colombia}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Autónoma de Occidente}%
+      }
+      \strng{namehash}{a4ccfa5d160b384dfd5eeb884f45f034}
+      \strng{fullhash}{095f522f52d1d6a75568f5a8755529c0}
+      \strng{bibnamehash}{095f522f52d1d6a75568f5a8755529c0}
+      \strng{authorbibnamehash}{095f522f52d1d6a75568f5a8755529c0}
+      \strng{authornamehash}{a4ccfa5d160b384dfd5eeb884f45f034}
+      \strng{authorfullhash}{095f522f52d1d6a75568f5a8755529c0}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introducción a la mecánica de la fractura y análisis de fallas}
+      \field{year}{2008}
+    \endentry
+    \entry{kanninen1985advanced}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f771b55fb705df67cf22b71332dfc938}{%
+           family={Kanninen},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26e1c1efc15dc12aa20ea5fda87f453c}{%
+           family={Popelar},
+           familyi={P\bibinitperiod},
+           given={C.\bibnamedelimi H.},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{d8d5c28d09db1a2de4b6748cf5495934}
+      \strng{fullhash}{d8d5c28d09db1a2de4b6748cf5495934}
+      \strng{bibnamehash}{d8d5c28d09db1a2de4b6748cf5495934}
+      \strng{authorbibnamehash}{d8d5c28d09db1a2de4b6748cf5495934}
+      \strng{authornamehash}{d8d5c28d09db1a2de4b6748cf5495934}
+      \strng{authorfullhash}{d8d5c28d09db1a2de4b6748cf5495934}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Advanced Fracture Mechanics}
+      \field{year}{1985}
+      \true{nocite}
+    \endentry
+    \entry{moes1999finite}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ca933a304e59ca5929a562992682ad36}{%
+           family={Moës},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6528321e3302b1295d4624ca2c1b6e1}{%
+           family={Dolbow},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87de48ed585a7dc01f0a933d6a6c62b0}{%
+           family={Belytschko},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{f7e0018aa93e0a5fe4cd378d224bbcef}
+      \strng{fullhash}{ab3b122ff707059d7f5bf14957001703}
+      \strng{bibnamehash}{ab3b122ff707059d7f5bf14957001703}
+      \strng{authorbibnamehash}{ab3b122ff707059d7f5bf14957001703}
+      \strng{authornamehash}{f7e0018aa93e0a5fe4cd378d224bbcef}
+      \strng{authorfullhash}{ab3b122ff707059d7f5bf14957001703}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal for Numerical Methods in Engineering}
+      \field{number}{1}
+      \field{title}{A finite element method for crack growth without remeshing}
+      \field{volume}{46}
+      \field{year}{1999}
+      \true{nocite}
+      \field{pages}{131\bibrangedash 150}
+      \range{pages}{20}
+    \endentry
+    \entry{paris1963stress}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b7e0bb562104e02793f1bcadc780e6bc}{%
+           family={Paris},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bcfae5cafa428073b9cca9a20f52597}{%
+           family={Erdogan},
+           familyi={E\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Mechanical Engineers}%
+      }
+      \strng{namehash}{d727c87a207e5d6e2d45172fd8d08507}
+      \strng{fullhash}{d727c87a207e5d6e2d45172fd8d08507}
+      \strng{bibnamehash}{d727c87a207e5d6e2d45172fd8d08507}
+      \strng{authorbibnamehash}{d727c87a207e5d6e2d45172fd8d08507}
+      \strng{authornamehash}{d727c87a207e5d6e2d45172fd8d08507}
+      \strng{authorfullhash}{d727c87a207e5d6e2d45172fd8d08507}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Basic Engineering}
+      \field{number}{4}
+      \field{title}{A critical analysis of crack propagation laws}
+      \field{volume}{85}
+      \field{year}{1963}
+      \true{nocite}
+      \field{pages}{528\bibrangedash 533}
+      \range{pages}{6}
+    \endentry
+    \entry{Ponson2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=acae2630eb9ee68305d63105ec0f87b4}{%
+           family={Ponson},
+           familyi={P\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, UK}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{acae2630eb9ee68305d63105ec0f87b4}
+      \strng{fullhash}{acae2630eb9ee68305d63105ec0f87b4}
+      \strng{bibnamehash}{acae2630eb9ee68305d63105ec0f87b4}
+      \strng{authorbibnamehash}{acae2630eb9ee68305d63105ec0f87b4}
+      \strng{authornamehash}{acae2630eb9ee68305d63105ec0f87b4}
+      \strng{authorfullhash}{acae2630eb9ee68305d63105ec0f87b4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mechanics and Physics of Fracture}
+      \field{year}{2022}
+    \endentry
+    \entry{rice1968path}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=982c9b19f34905165b077c594361097a}{%
+           family={Rice},
+           familyi={R\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Mechanical Engineers}%
+      }
+      \strng{namehash}{982c9b19f34905165b077c594361097a}
+      \strng{fullhash}{982c9b19f34905165b077c594361097a}
+      \strng{bibnamehash}{982c9b19f34905165b077c594361097a}
+      \strng{authorbibnamehash}{982c9b19f34905165b077c594361097a}
+      \strng{authornamehash}{982c9b19f34905165b077c594361097a}
+      \strng{authorfullhash}{982c9b19f34905165b077c594361097a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Mechanics}
+      \field{number}{2}
+      \field{title}{A path independent integral and the approximate analysis of strain concentration by notches and cracks}
+      \field{volume}{35}
+      \field{year}{1968}
+      \true{nocite}
+      \field{pages}{379\bibrangedash 386}
+      \range{pages}{8}
+    \endentry
+    \entry{schijve2001fatigue}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a8b158b87cda7baacc048c6c4c08c10}{%
+           family={Schijve},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5a8b158b87cda7baacc048c6c4c08c10}
+      \strng{fullhash}{5a8b158b87cda7baacc048c6c4c08c10}
+      \strng{bibnamehash}{5a8b158b87cda7baacc048c6c4c08c10}
+      \strng{authorbibnamehash}{5a8b158b87cda7baacc048c6c4c08c10}
+      \strng{authornamehash}{5a8b158b87cda7baacc048c6c4c08c10}
+      \strng{authorfullhash}{5a8b158b87cda7baacc048c6c4c08c10}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Fatigue}
+      \field{number}{8}
+      \field{title}{Fatigue of structures and materials in the 20th century and the state of the art}
+      \field{volume}{23}
+      \field{year}{2001}
+      \true{nocite}
+      \field{pages}{679\bibrangedash 702}
+      \range{pages}{24}
+    \endentry
+    \entry{suresh1998fatigue}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1c40bc078eb7a9e008812c6bb1bea993}{%
+           family={Suresh},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, UK}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{1c40bc078eb7a9e008812c6bb1bea993}
+      \strng{fullhash}{1c40bc078eb7a9e008812c6bb1bea993}
+      \strng{bibnamehash}{1c40bc078eb7a9e008812c6bb1bea993}
+      \strng{authorbibnamehash}{1c40bc078eb7a9e008812c6bb1bea993}
+      \strng{authornamehash}{1c40bc078eb7a9e008812c6bb1bea993}
+      \strng{authorfullhash}{1c40bc078eb7a9e008812c6bb1bea993}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Fatigue of Materials}
+      \field{year}{1998}
+      \true{nocite}
+    \endentry
+    \entry{sutton2009application}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=de97c815cbb6305591067f9fac518799}{%
+           family={Sutton},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a5369dc1cf93e0dda86fd163d5b4569}{%
+           family={Wolters},
+           familyi={W\bibinitperiod},
+           given={W.\bibnamedelimi J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4041f86ff5106798cda69a1835a7562}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={W.\bibnamedelimi H.},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68ad6fc9a2ad2161c47bf45af4f43547}{%
+           family={Ranson},
+           familyi={R\bibinitperiod},
+           given={W.\bibnamedelimi F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1a5fbbd38df7926e083d7da4567c5ea}{%
+           family={McNeill},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9dddbb9944c21a8d8bb44f2d7ad22a96}
+      \strng{fullhash}{a804f2b132837da17efdb1cf7d5f32f5}
+      \strng{bibnamehash}{a804f2b132837da17efdb1cf7d5f32f5}
+      \strng{authorbibnamehash}{a804f2b132837da17efdb1cf7d5f32f5}
+      \strng{authornamehash}{9dddbb9944c21a8d8bb44f2d7ad22a96}
+      \strng{authorfullhash}{a804f2b132837da17efdb1cf7d5f32f5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Image and Vision Computing}
+      \field{number}{3}
+      \field{title}{Application of an optimized digital correlation method to planar deformation analysis}
+      \field{volume}{4}
+      \field{year}{1986}
+      \true{nocite}
+      \field{pages}{143\bibrangedash 150}
+      \range{pages}{8}
+    \endentry
+    \entry{zehnder2012fracture}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fd4fab832f40a3444e77379630abe7f1}{%
+           family={Zehnder},
+           familyi={Z\bibinitperiod},
+           given={A.\bibnamedelimi T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht, Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{fd4fab832f40a3444e77379630abe7f1}
+      \strng{fullhash}{fd4fab832f40a3444e77379630abe7f1}
+      \strng{bibnamehash}{fd4fab832f40a3444e77379630abe7f1}
+      \strng{authorbibnamehash}{fd4fab832f40a3444e77379630abe7f1}
+      \strng{authornamehash}{fd4fab832f40a3444e77379630abe7f1}
+      \strng{authorfullhash}{fd4fab832f40a3444e77379630abe7f1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fracture Mechanics}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
