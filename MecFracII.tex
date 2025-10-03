@@ -291,6 +291,174 @@ A continuación se presentan algunas tablas y esquemas del factor geométrico $Y
     \caption*{Nota. Tomada de: Anderson, T. L. (2017). \textit{Fracture Mechanics - Fundamentals and Applications} (4ta ed.). CRC Press-Taylor.}\cite{anderson2017fracture}
 \end{figure}
 
+% NUEVO TEMA: Ensayo para determinar la tenacidad a la fractura LEMF
+\section{Ensayo para determinar la tenacidad a la fractura LEMF}
+
+El ensayo para la determinación de la tenacidad de fractura $K_{IC}$ requiere criterios específicos que garanticen ensayos reproducibles y confiables. Los esfuerzos de Srawley y Brown (1966) llevaron a la adopción de la Norma ASTM E 399 (1974), actualmente reconocida como estándar internacional para medir el factor crítico de intensidad de tensiones en Modo I bajo condiciones de deformación plana y carga estática.
+
+\section{Normas Aplicables}
+
+Las principales normas que rigen estos ensayos son:
+\begin{itemize}
+\item \textbf{ASTM E 399}: Norma estadounidense para medición de $K_{IC}$
+\item \textbf{EN ISO 12737}: Norma europea para determinación de resistencia a fractura por deformación plana
+\item \textbf{BS 7448}: Norma británica complementaria
+\end{itemize}
+
+Estas normas son fundamentales porque las condiciones de deformación plana representan el escenario más crítico donde ocurren las roturas catastróficas y proporcionan un valor mínimo de tenacidad para diseño seguro.
+
+\subsection{Tipos de Probetas}
+
+\subsection{Probeta de Flexión}
+\begin{itemize}
+\item Geometría: Ensayo de flexión en tres puntos
+\item Separación de apoyos: $S = 4W$
+\item Aplicación de carga en punto medio opuesto a la entalla
+\item Factor de intensidad de tensiones:
+\end{itemize}
+
+\[K_I = \frac{PS}{BW^{3/2}} f_1\left(\frac{a}{W}\right)\]
+
+donde para $a/W = 0.5$: $f_1 = 2.66$
+
+\subsection{Probeta Compacta de Tracción (CT)}
+\begin{itemize}
+\item Geometría: Tracción directa mediante pasadores
+\item Permite rotación durante la carga
+\item Factor de intensidad de tensiones:
+\end{itemize}
+
+\[K_I = \frac{P}{BW^{1/2}} f_2\left(\frac{a}{W}\right)\]
+
+donde para $a/W = 0.5$: $f_2 = 9.66$
+
+\section{Criterios Dimensionales}
+
+\subsection{Requisitos de Espesor}
+El espesor de la probeta $B$ y la longitud de grieta $a$ deben cumplir:
+
+\[B, a \geq 2.5\left(\frac{K_{IC}}{\sigma_{0.2}}\right)^2\]
+
+donde $\sigma_{0.2}$ es el límite elástico convencional al 0.2\%.
+
+\subsection{Relaciones Geométricas}
+\begin{itemize}
+\item Longitud de grieta: $0.45W \leq a \leq 0.55W$
+\item Espesor: $B \leq 0.5W$
+\item Diámetro de rodillos: $> W/4$
+\end{itemize}
+
+\section{Criterios para la Grieta}
+
+\subsection{Generación de la Grieta}
+\begin{itemize}
+\item \textbf{Método}: Propagación por fatiga controlada
+\item \textbf{Entalla inicial}: Forma en V para dirigir la propagación
+\item \textbf{Longitud mínima de fatiga}: $a_f \geq 0.05a$ y $a_f \geq 1.3$ mm
+\end{itemize}
+
+\subsection{Restricciones de Fatiga}
+\begin{itemize}
+\item Factor de intensidad durante fatiga: $K_{max} \leq 0.6 K_{IC}$
+\item Para el último 2.5\% de crecimiento: $\frac{K_{max}}{E} \leq 0.00032$ m$^{1/2}$
+\item Uso de mínimos niveles de tensión compatibles con tiempos razonables
+\end{itemize}
+
+\subsection{Tolerancias de Medición}
+\begin{itemize}
+\item Diferencia máxima entre tres medidas: $\leq 5\%$ del valor medio
+\item Longitud en cara externa: $\geq 90\%$ de la media
+\item Distancia mínima al borde de entalla: $\geq 5\%$ de longitud media o 1.3 mm
+\item Desviación máxima de plano: $\leq 10°$
+\end{itemize}
+
+\section{Criterios de Ensayo}
+
+\subsection{Velocidad de Carga}
+La velocidad de aumento del factor de intensidad de tensiones debe estar entre:
+\[0.55 \leq \dot{K} \leq 2.75 \text{ MPa·m}^{1/2}\text{·s}^{-1}\]
+
+Para probetas de 25 mm de espesor:
+\begin{itemize}
+\item Probeta CT: 340-1700 N/s
+\item Probeta de flexión: 300-1500 N/s
+\end{itemize}
+
+\subsection{Instrumentación}
+\begin{itemize}
+\item \textbf{Registro obligatorio}: Curva carga-apertura ($P$-$v$)
+\item \textbf{Extensómetro}: Colocado en borde de entalla con precisión alta
+\item \textbf{Pendiente lineal}: Debe estar entre 0.7 y 1.5 veces la teórica
+\end{itemize}
+
+\subsection{Criterios de Validación}
+
+\subsection{Determinación de Carga Crítica}
+Se define $P_Q$ como la carga donde ocurre propagación significativa, identificada por:
+\begin{itemize}
+\item \textbf{Criterio del 5\%}: Cuando la relación $P/v$ es 5\% inferior a la lineal inicial
+\item \textbf{Pop-in}: Escalón audible en la curva por propagación súbita
+\item \textbf{Secante}: Trazado desde origen con pendiente 0.95 veces la inicial
+\end{itemize}
+
+\subsection{Criterios de Aceptación}
+\begin{enumerate}
+\item \textbf{Relación de cargas}: $P_{max}/P_Q \leq 1.1$
+\item \textbf{Validación dimensional}: Verificar que dimensiones satisfacen criterio de espesor
+\item \textbf{Comportamiento lineal}: Propagación estable limitada
+\end{enumerate}
+
+\subsection{Invalidación del Ensayo}
+El ensayo se rechaza si:
+\begin{itemize}
+\item Excesiva propagación estable antes de fractura final
+\item Zona plástica excesiva (no cumple criterio dimensional)
+\item Desviaciones geométricas fuera de tolerancia
+\item Velocidad de carga inadecuada
+\end{itemize}
+
+\subsection{Interpretación de Resultados}
+
+\subsection{Cálculo de $K_{IC}$}
+Si se cumplen todos los criterios de validez:
+\[K_{IC} = K_Q = \frac{P_Q}{BW^{1/2}} f\left(\frac{a}{W}\right)\]
+
+\subsection{Tipos de Curvas P-v}
+\begin{itemize}
+\item \textbf{Tipo I}: Material dúctil con propagación estable significativa
+\item \textbf{Tipo II}: Comportamiento intermedio con pop-in seguido de crecimiento estable
+\item \textbf{Tipo III}: Fractura frágil con propagación inestable
+\end{itemize}
+
+\subsection{Aplicabilidad y Limitaciones}
+
+\subsection{Rango de Validez}
+La Mecánica de Fractura Elástica Lineal (MFEL) es aplicable cuando:
+\[\frac{\sigma_{ys}}{E} \leq \frac{1}{200} \text{ a } \frac{1}{250}\]
+
+\subsection{Valores Típicos de $K_{IC}$}
+\begin{itemize}
+\item \textbf{Polímeros}: 1-7 MPa·m$^{1/2}$
+\item \textbf{Aceros alta resistencia}: 25-120 MPa·m$^{1/2}$
+\item \textbf{Aceros baja resistencia}: hasta 200 MPa·m$^{1/2}$
+\item \textbf{Cerámicas}: 0.6-6 MPa·m$^{1/2}$
+\end{itemize}
+
+\subsection{Consideraciones Especiales}
+
+\subsection{Efectos de Temperatura}
+\begin{itemize}
+\item A bajas temperaturas aumenta el límite elástico, favoreciendo deformación plana
+\item La transición dúctil-frágil afecta significativamente los valores de $K_{IC}$
+\item Temperatura de agrietamiento por fatiga debe considerarse si difiere de la de ensayo
+\end{itemize}
+
+\subsection{Efectos de Velocidad}
+\begin{itemize}
+\item Velocidades altas reducen la tenacidad de fractura
+\item Diferencias hasta 25\% entre ensayos estáticos y dinámicos
+\item La temperatura de transición aumenta con velocidad de carga
+\end{itemize}
 
 % --------- REFERENCIAS APA 7ma ---------
 \newpage
