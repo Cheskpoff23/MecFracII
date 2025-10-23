@@ -1,0 +1,18 @@
+# Octave/MATLAB temporary files
+octave-workspace
+*.asv
+*.m~
+
+# MATLAB autosave files
+*.m.autosave
+
+# Build artifacts
+*.mex*
+*.o
+*.obj
+
+# Figures and outputs (uncomment if you don't want to track them)
+# *.fig
+# *.png
+# *.jpg
+# *.pdf
